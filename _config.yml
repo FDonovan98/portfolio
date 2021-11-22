@@ -1,9 +1,9 @@
 # site settings
-title: Forty
-subtitle: by HTML5 UP
-email: youremailaddress@gmail.com
-description: A responsive site template designed by HTML5 Up<br /> and released under the Creative Commons.
-baseurl: "/forty-jekyll-theme" # the subpath of your site, e.g. /blog
+title: Frost Donovan
+subtitle: Producer
+email: FrostBDonovan@gmail.com
+description: A portfolio for Frost Donovan, producer extrordinaire
+baseurl: "/portfolio" # the subpath of your site, e.g. /blog
 url: # the base hostname & protocol for your site
 author:
 # street_address: 1234 Somewhere Roads
@@ -22,13 +22,13 @@ tiles-count: 6
 # Icons are not shown if value is empty
 # You need to restart jekyll for changes to have an effect
 socials:
-  envelope: mailto:test@gamil.com
-  GitHub: https://github.com/andrewbanchich
+  envelope: mailto:FrostBDonovan@gmail.com
+  GitHub: https://github.com/hdonovan96
   GitLab:
-  Google-Plus: https://plus.google.com/u/0/+AndrewBanchich
+  Google-Plus:
   Instagram:
-  LinkedIn: https://www.linkedin.com/in/andrew-banchich-a4ba1195
-  Twitter: https://twitter.com/andrewbanchich
+  LinkedIn: 
+  Twitter: https://twitter.com/eachabyss
   Facebook:
   Slack:
 
