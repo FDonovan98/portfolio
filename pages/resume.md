@@ -1,9 +1,9 @@
 ---
 layout: post
 title: Resume
-# description: The la
+description: A direct link to my resume
 # image: assets/images/pic11.jpg
-nav-menu: true
+nav-menu: false
 show_tile: true
 redirect: https://raw.githubusercontent.com/HDonovan96/Resume/dev/resume.pdf
 ---
