@@ -29,6 +29,16 @@
           {% if post.image %}<span class="image main"><img src="{{ site.baseurl }}/{{ post.image }}" alt="" /></span>{%
           endif %}
           <!-- {% if post.date %}<p>{{ post.date }}</p>{% endif %} -->
+          {% if post.storefront != null %}
+          <b>Store:</b> <a href="{{post.storeurl}}">{{post.storefront}}</a>
+          {%endif%}
+          {% if post.released != null %}
+          <b>Released:</b> {{post.released}}
+          {%endif%}
+          {% if post.roles != null %}
+          <b>Role:</b> {{post.roles}}
+          {%endif%}
+
           <p>{{ post.excerpt }}</p>
         </a>
         {% endif %}
