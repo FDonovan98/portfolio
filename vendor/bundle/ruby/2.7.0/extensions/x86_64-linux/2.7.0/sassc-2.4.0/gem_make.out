@@ -75,6 +75,6 @@ compiling ./libsass/src/util_string.cpp
 compiling ./libsass/src/values.cpp
 linking shared-object sassc/libsass.so
 
-current directory: /home/frost/Documents/forty-jekyll-theme/vendor/bundle/ruby/2.7.0/gems/sassc-2.4.0/ext
+current directory: /home/frost/Documents/forty-jekyll-theme/vendor/bundle/ruby/2.7.0/gems/sassc-2.4.0
 make "DESTDIR=" install
 /usr/bin/install -c -m 0755 libsass.so ./.gem.20211122-25268-ub9m19/sassc
