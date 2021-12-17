@@ -20,6 +20,6 @@ Experienced with <b>Jira</b> and <b>Trello</b>, having used them for task tracki
 <span class="image fit"><img src="{{ site.baseurl }}/assets/images/Jira_Backlog.png" alt=""/></span>
 
 <b>Release planning</b> assisted by Jira's <b>version reports</b> is excellent, allows us to see if our backlog is on track, as well as providing an easy way for the team and supervisors to see if we're on track. Use of different <b>release versions</b> to help with story prioritisation.
-<span class="image fit"><img src="{% link assets/images/Jira_Version_Report.png %}" alt=""/></span>
+<span class="image fit"><img src="{{ site.baseurl }}/assets/images/Jira_Version_Report.png" alt=""/></span>
 
 <h2>Hobbies</h2>
