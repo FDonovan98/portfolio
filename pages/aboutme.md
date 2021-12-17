@@ -17,7 +17,7 @@ I'm graduating from Falmouth University in 2022, and am actively looking for Jun
 
 <h2>Skills</h2>
 Experienced with <b>Jira</b> and <b>Trello</b>, having used them for task tracking over the last three years. Jira is awesome, <b>automation</b> is a blessing, and <b>story points</b> are excellent for allowing planning with evidence that you can point to, rather than just experience and vibes. Has been essential for reassuring scope concerns that have come from supervisors. Already highlighted potential scope problems, current game plan was to produce two levels, although after some analysis, breaking down tasks and pointing them up we realised that was likely out of scope. Given we've found this out early, we've been able to <b>rescope regularly</b>, including redesigning our second level to be based off of cheaper, modular assets, rather than ending up in the position where we have to abandon a half finished level just before release because we realise last minute we wouldn't have time to finish it.
-<span class="image fit"><img src="{% link assets/images/Jira_Backlog.png %}" alt=""/></span>
+<span class="image fit"><img src="{{ site.baseurl }}/assets/images/Jira_Backlog.png" alt=""/></span>
 
 <b>Release planning</b> assisted by Jira's <b>version reports</b> is excellent, allows us to see if our backlog is on track, as well as providing an easy way for the team and supervisors to see if we're on track. Use of different <b>release versions</b> to help with story prioritisation.
 <span class="image fit"><img src="{% link assets/images/Jira_Version_Report.png %}" alt=""/></span>
