@@ -27,4 +27,4 @@ I have also begun experimenting with <b>Continuous Development</b> pipelines usi
 
 I am familiar with <b>Confluence</b> for documentation, having switched to it after previously using collections of <b>Google Docs</b>. This has been a good improvement as documentation can be ordered and can reference each other, rather than having a large collection of separate documents that all have to be self contained. This lets each document be much shorter and to the point, significantly increasing readability.
 
-<h2>Hobbies</h2>
+<!-- <h2>Hobbies</h2> -->
