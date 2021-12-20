@@ -2,10 +2,10 @@
 layout: post
 title: Silverback
 # description: Feugiat amet 
-image: assets/images/carma.png
+image: assets/images/Silverback.png
 released: TBC
 storefront: Steam
-# storeurl: https://store.steampowered.com/app/1603990/Carma/
+storeurl: null
 roles: Producer & Team Lead
 display: false
 ---
