@@ -22,17 +22,25 @@
 				<header class="major">
 					<h1>{{ page.title }}</h1>
 				</header>
-				{% if page.image %}<span class="image main"><img src="{{ site.baseurl }}/{{ page.image }}"
-						alt="" /></span>{% endif %}
 
-				{% if page.storefront != null %}
-				<b>Store:</b> <a href="{{page.storeurl}}">{{page.storefront}}</a>
+				{% if page.image %}
+					<span class="image main"><img src="{{ site.baseurl }}/{{ page.image }}" alt="" /></span>
+				{% endif %}
+
+				{% if page.storefront != null%}
+					{%if page.storeurl != null %}
+						<b>Store:</b> <a href="{{page.storeurl}}">{{page.storefront}}</a>
+					{% else %}
+						<b>Store:</b> {{page.storefront}}
+					{% endif %}
 				{%endif%}
+
 				{% if page.released != null %}
-				<b>Released:</b> {{page.released}}
+					<b>Released:</b> {{page.released}}
 				{%endif%}
+
 				{% if page.roles != null %}
-				<b>Role:</b> {{page.roles}}
+					<b>Role:</b> {{page.roles}}
 				{%endif%}
 
 				<p>{{ content }}</p>
