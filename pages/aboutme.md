@@ -7,11 +7,11 @@ nav-menu: true
 show_tile: true
 ---
 
-I'm a passionate producer and full time nerd. I love film, exploring new creative pursuits, and have recently got into Warhammer 40k. I've also run a few D&D campaigns in the past.
+I'm a passionate producer and full time nerd. I love film, exploring new creative pursuits, and have recently got into Warhammer 40k. I've also run a few D&D campaigns in the past and would love to again when I have time.
 
-I've got experience running game development teams, taking projects from initial conception to publishing on Itch and Steam, always with a focus on maintaining healthy and flexible practices. I'm experienced with Git, Jira, Confluence, Trello, Unity, as well as Agile and Scrum theory and methodology. I've also started my own studio, Glass Nomad Games, to publish games made throughout University.
+I've got experience running game development teams, taking projects from <b>initial conception to publishing</b> on Itch and Steam, always with a focus on maintaining <b>healthy and flexible practices</b>. I'm experienced with <b>Git</b>, <b>Jira</b>, <b>Confluence</b>, <b>Trello</b>, <b>Unity</b>, as well as <b>Agile</b> and <b>Scrum</b> theory and methodology. I've also <b>started my own studio</b>, Glass Nomad Games, to publish games made throughout University.
 
-I'm graduating from Falmouth University in 2022, and am actively looking for Junior or Graduate Producer roles where I can learn and grow, as well as being available for freelance work. If any of this sounds like I could be a good fit for you or your company, please don't hesitate to get in touch! 
+I'm <b>graduating in 2022</b> from Falmouth University, and am actively <b>looking for Associate or Graduate Producer roles</b> where I can learn and grow, as well as being available for <b>freelance</b> work. If any of this sounds like I could be a good fit for you or your company, please don't hesitate to get in touch! 
 
 <h2>Skills</h2>
 I am experienced with <b>Jira</b> and <b>Trello</b>, having used them for task tracking over the last three years. Jira is awesome, the <b>automation</b> is a blessing, and <b>story points</b> are excellent for allowing planning with evidence that you can point to, rather than just experience and vibes. This has been essential for reassuring scope concerns that have come from our supervisors, and allowing us to intelligently and continuously adjust the scope of the project as needed. This practice has already highlighted potential scoping problems within the initial plans for our latest project.As we could foresee this early, we've been able to <b>adjust scope</b> and replan, rather than finding out we had over scoped late in the project and having to cut half finished assets. I talk about this in a little more detail <a href="{{ site.baseurl }}/2021/10/01/Silverback.html">here</a>.
@@ -27,6 +27,7 @@ I have also begun experimenting with <b>Continuous Development</b> pipelines usi
 
 I am familiar with <b>Confluence</b> for documentation, having switched to it after previously using collections of <b>Google Docs</b>. This has been a good improvement as documentation can be ordered and can reference each other, rather than having a large collection of separate documents that all have to be self contained. This lets each document be much shorter and to the point, significantly increasing readability.
 
+<span class="image left"><img src="{{site.baseurl}}/assets/images/gnglogo.png" alt=""/></span> In 2020 I <b>started my own company</b>, Glass Nomad Games, to publish games through <a href="https://store.steampowered.com/search/?developer=Glass%20Nomad%20Games"><b>Steam</b></a>. We've been running the company <a href="https://twitter.com/glassnomadgames"><b>Twitter</b></a> in order to advertise our games before release and build a small following to improve the amount of traction we get upon release. I have handled all of the legal research, <b>registering the company</b> and setting up a business bank account, as well as handling <b>IP agreements</b> with the development team.
 <!-- Set up own company -->
 
 <!-- <h2>Hobbies</h2> -->
