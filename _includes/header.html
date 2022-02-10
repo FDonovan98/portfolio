@@ -4,13 +4,34 @@
 	<!-- Header -->
 	<!-- <header id="header" {% if page.layout=="landing" %} class="alt style2" {% endif %}{% if page.layout=="home" %}
 		class="alt" {% endif %}> -->
-	<header id="header">
+
+	<!-- Header using a nested menu -->
+	<!-- <header id="header">
 		<a href="{{ "" | absolute_url }}/" class="logo"><strong>{{ site.title }}</strong> <span>{{ site.subtitle
 				}}</span></a>
 		<nav>
 			<a href="#menu">Menu</a>
 		</nav>
-	</header>
+	</header> -->
+
+	<!-- Header w/ all options on the bar -->
+	<header id="header">
+			<a href="{{ "" | absolute_url }}/" class="logo"><strong>{{ site.title }}</strong> <span>{{ site.subtitle
+					}}</span></a>
+			<nav>
+				{% for page in site.pages %}
+				{% if page.layout == "home" %}
+				<a href="{{ "" | absolute_url }}/">{{ page.title }}</a>
+				{% endif %}
+				{% endfor %}
+				{% for page in site.html_pages %}
+				{% if page.layout != "home" and page.nav-menu == true %}
+				<a href="{{ page.url | absolute_url }}">{{ page.title }}</a>
+				{% endif %}
+				{% endfor %}
+				<a href="{{page.url | absolute_url}}#footer">Contact</a>
+			</nav>
+		</header>
 
 	<!-- Menu -->
 	<nav id="menu">
