@@ -19,6 +19,9 @@ What really set's us apart, however, is that this is only half of our game. We'l
 as we were originally planning, current game plan was to produce two levels, although after some analysis, breaking down tasks and pointing them up we realised that was likely out of scope. 
 including redesigning our second level to be based off of cheaper, modular assets, rather than ending up in the position where we have to abandon a half finished level just before release because we realise last minute we wouldn't have time to finish it.
 
+Got into engine to help with tasks where needed - building out internals, testing mechanics, helping do QA passes to vheck areas were optimised before importation. Big thing given the scale of our level. Evem getting into substance painter to add degradation and weathering to existing assets
+Didn't playtest early enough
+
 <!-- Talk about how boards were structured and maintained
 Post mortem
 Images of boards and charts -->
