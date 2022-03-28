@@ -2,25 +2,26 @@
 layout: post
 title: Silverback
 # description: Feugiat amet 
-image: assets/images/Silverback.png
-released: TBC
+image: assets/images/silverback.png
+released: May 2022
 storefront: Steam
-storeurl: null
+storeurl: https://store.steampowered.com/app/1836170/Castan/
 roles: Producer & Team Lead
-display: false
+display: true
 ---
 
-Venture into overgrown wastes as you scavenge to survive. 
+Explore an open post-apocalyptic city, delving into buildings and businesses where mutated creatures run rampant, few survivors still operate in reclaimed buildings. Working to pay the mafia will be no easy task, as diving into the dangerous contaminated World to make a profit is a death sentence. 
 
-Building off the strong, established base of the lootashoota genre, plunging players into a vibrant, and heavily overgrown post apocalyptic world. With fun, fast paced arcade style shooting, challenging boss fights, and engaging weapon variety with makeshift, military grade, and even special weapons with their own unique mechanics and effects.
+<!-- Venture into overgrown wastes as you scavenge to survive.  -->
 
-What really set's us apart, however, is that this is only half of our game. We'll be adding in shop management, and story driven questing, changing the player from a generic murder hobo, into a shopkeeper, trying to survive in this world just like everyone else. Get back from looting these dangerous wastes and charge the prices *you* want for the item's *you've* scavenged. Trade with other merchants for new weapons, and build up relationships with the people around town. Learn who they are, what they like, and tailor what you loot, and how you price it, to these individual people. You can even unlock quests unique to that person, each with their own storylines that can effect not just them, but the settlement as a whole.
+<!-- Building off the strong, established base of the lootashoota genre, plunging players into a vibrant, and heavily overgrown post apocalyptic world. With fun, fast paced arcade style shooting, challenging boss fights, and engaging weapon variety with makeshift, military grade, and even special weapons with their own unique mechanics and effects. -->
 
-as we were originally planning, current game plan was to produce two levels, although after some analysis, breaking down tasks and pointing them up we realised that was likely out of scope. 
-including redesigning our second level to be based off of cheaper, modular assets, rather than ending up in the position where we have to abandon a half finished level just before release because we realise last minute we wouldn't have time to finish it.
+<!-- What really set's us apart, however, is that this is only half of our game. We'll be adding in shop management, and story driven questing, changing the player from a generic murder hobo, into a shopkeeper, trying to survive in this world just like everyone else. Get back from looting these dangerous wastes and charge the prices *you* want for the item's *you've* scavenged. Trade with other merchants for new weapons, and build up relationships with the people around town. Learn who they are, what they like, and tailor what you loot, and how you price it, to these individual people. You can even unlock quests unique to that person, each with their own storylines that can effect not just them, but the settlement as a whole. -->
+In our original production plan, we had planned to produce two levels, however after scope analysis we realised this was likely outside of our available scope. This scope analysis involved breaking down our high level plan into epics and broad <b>user stories</b>, then utilising <b>story points</b> and our team's expected <b>sprint velocity</b> to see if it was realistic. This allowed us to <b>rescope</b> the project early, preventing the team ending up in the position where we would have had to abandon a half finished level just before release due to running out of time.
 
-Got into engine to help with tasks where needed - building out internals, testing mechanics, helping do QA passes to vheck areas were optimised before importation. Big thing given the scale of our level. Evem getting into substance painter to add degradation and weathering to existing assets
-Didn't playtest early enough
+As well as my usual production duties, I also got into engine to help with tasks where needed - building out internals, testing mechanics, and helping to do QA passes checking optimisation and general quality. This even extended to getting into substance painter to add degradation and weathering to the textures for existing assets in order to help them fit our environment better.
+
+<!-- several redesigns, each requiring scope replanning  -->
 
 <!-- Talk about how boards were structured and maintained
 Post mortem
