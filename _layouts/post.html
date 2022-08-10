@@ -45,6 +45,10 @@
 
 				<p>{{ content }}</p>
 
+				{%if page.video %}
+              		<span class="image main"><iframe src = "{{page.video}}" style='width: 100%; aspect-ratio: 16/9;'> </iframe></span>
+				{%endif%}
+
 			</div>
 		</section>
 
