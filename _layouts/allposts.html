@@ -28,7 +28,9 @@
                     <h1>{{ post.title }} (Click for details)</h1>
                 </header>
               
-              {% if post.image %}
+              {%if post.video %}
+              <span class="image main"><iframe src = "{{post.video}}" style='width: 100%; aspect-ratio: 16/9;'> </iframe></span>
+              {% else if post.image %}
                 <span class="image main"><img src="{{ site.baseurl }}/{{ post.image }}" alt="" /></span>
               {% endif %}
             </a>
