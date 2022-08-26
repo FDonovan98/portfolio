@@ -1,7 +1,7 @@
 ---
 layout: home
 title: Home
-landing-title: Frost Donovan - Producer
+landing-title: Frost Donovan - Game Developer
 description: null
 image: null
 author: null
