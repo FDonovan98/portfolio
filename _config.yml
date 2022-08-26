@@ -1,8 +1,8 @@
 # site settings
 title: Frost Donovan
-subtitle: Producer
+subtitle: Game Developer
 email: FrostBDonovan@gmail.com
-description: Hi! I'm Frost (she/ they), a producer with a background in programming and Director at Glass Nomad Games. I'm actively looking for Associate Producer roles, so feel free to have a look around or reach out through email.
+description: Hi! I'm Frost (she/ they), a game developer with a background in production, programming, and Director at Glass Nomad Games. I am also currently working on my artistic skills, which you can check out on my Artstation.
 baseurl: "/portfolio" # the subpath of your site, e.g. /blog
 url: # the base hostname & protocol for your site
 author:
@@ -24,6 +24,7 @@ tiles-count: 6
 socials:
   envelope: mailto:FrostBDonovan@gmail.com
   GitHub: https://github.com/fdonovan98
+  artstation: https://www.artstation.com/frostdonovan
   GitLab:
   Google-Plus:
   Instagram:
