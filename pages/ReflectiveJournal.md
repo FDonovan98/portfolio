@@ -5,9 +5,12 @@ description:
 image:
 nav-menu: true
 show_tile: true
+tile_order: 3
 ---
 <h2>Week 3: 03/10/22 - 09/10/22</h2>
-Sprint review, escalation and conclusion of team difficulties by individual leaving the group
+<!-- Sprint review, escalation and conclusion of team difficulties by individual leaving the group -->
+
+Ran sprint retrospective, guiding the team as we did an internal demonstration of the latest build, went through what had worked well, what had caused problems, and things that could be done to improve, throughout the last sprint. This was then used to help guide the tasks for the next sprint, alongside the project backlog. This allows and encourages developers to share problems they have encountered and allows the team to collaboratively generate solutions, encouraging trust and understanding across disciplines<REFERENCE>. This practice was primarily shaped by the theory within the book 'Agile Game Development With Scrum' by Clinton Keith (2010), as well as supporting research from various websites, including Scrum.org (Scrum.org, n.d.).
 
 Alongside this game jam I have been working on improving my art fundamentals, and have been attending undergrad lectures as part of this. This has included study of the Andrew Loomis proportion charts for both the body (2021) and the head (2021). While I had seen these before I hadn't done any proper focused studies on them, and while I still need to do that I have begun applying the basics in sketching silhouettes as well as during Life Drawing. Having internalised the basic "8 heads" proportions I'm finding they are becoming more instinctual, as well as giving me incredibly useful reference to pull from. As such, these drawings have become the start of, to borrow a phrase from my programming work, my debugging checklist for when I am drawing humanoids and the drawing is feeling off. As mentioned, I have been doing silhouette studies as a method of practice, both for my understanding of proportion given that I can do a lot of figures very quickly, and because producing silhouettes is an important part of concept art so will be a useful skill to demonstrate I can do for industry <REFERENCE SILHOUETTES IN INDUSTRY>.
 
@@ -36,3 +39,7 @@ Loomis, A., 2021. Figure drawing for all it's worth. Clube de Autores.
 Loomis, A., 2021. Drawing the Head & Hands. Clube de Autores.
 
 jobs.lever.co. (n.d.). Jagex jobs. [online] Available at: https://jobs.lever.co/jagex [Accessed 6 Oct. 2022].
+
+Scrum.org. (n.d.). What is a Sprint Review? [online] Available at: https://www.scrum.org/resources/what-is-a-sprint-review.
+
+‌Keith, C., 2010. Agile game development with Scrum. Pearson Education.

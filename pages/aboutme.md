@@ -5,10 +5,11 @@ description: A little about me, my skills, and hobbies
 # image: assets/images/pic11.jpg
 nav-menu: true
 show_tile: true
+tile_order: 0
 ---
 
 I'm a passionate producer and full time nerd. I love film, exploring new creative pursuits, and have recently got into Warhammer 40k. I've also run a few D&D campaigns in the past and would love to again when I have time.
-
+ 
 I've got experience running game development teams, taking projects from <b>initial conception to publishing</b> on Itch and Steam, always with a focus on maintaining <b>healthy and flexible practices</b>. I'm experienced with <b>Git</b>, <b>Jira</b>, <b>Confluence</b>, <b>Trello</b>, <b>Unity</b>, as well as <b>Agile</b> and <b>Scrum</b> theory and methodology. I've also <b>started my own studio</b>, Glass Nomad Games, to publish games made throughout University.
 
 I'm <b>graduating in 2022</b> from Falmouth University, and am actively <b>looking for Associate or Graduate Producer roles</b> where I can learn and grow, as well as being available for <b>freelance</b> work. If any of this sounds like I could be a good fit for you or your company, please don't hesitate to get in touch! 

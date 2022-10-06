@@ -7,4 +7,5 @@ description: A list of my published work & portfolio pieces
 image: null
 author: null    
 show_tile: true
+tile_order: 2
 ---
