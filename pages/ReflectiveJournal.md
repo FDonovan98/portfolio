@@ -1,13 +1,10 @@
 ---
 layout: post
-title: MA Game Art Module Reflection
-# description: Feugiat amet 
-# image: assets/images/yvaga.png
-# video: https://www.youtube.com/embed/Lf0t6xAkz-s
-released: 28/08/2022
-# storefront: itch.io
-# storeurl: https://dayluke.itch.io/yvaga-station
-roles: Environment Artist
+title: Reflective Journal
+description:
+image:
+nav-menu: true
+show_tile: true
 ---
 
 lead concepting discussions, with a mind for scope and team composition. There were several major concerns at the beginning of the project as the game jam was only 3 weeks, it was a development team that hadn't worked together before, and a majority of developers were new to game development. 
