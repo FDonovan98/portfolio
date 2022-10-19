@@ -7,12 +7,31 @@ nav-menu: true
 show_tile: true
 tile_order: 3
 ---
+<!-- <h2>Week 4: 10/10/22 - 16/10/22</h2> -->
+
+
+
 <h2>Week 3: 03/10/22 - 09/10/22</h2>
 <!-- Sprint review, escalation and conclusion of team difficulties by individual leaving the group -->
 
-Ran sprint retrospective, guiding the team as we did an internal demonstration of the latest build, went through what had worked well, what had caused problems, and things that could be done to improve, throughout the last sprint. This was then used to help guide the tasks for the next sprint, alongside the project backlog. This allows and encourages developers to share problems they have encountered and allows the team to collaboratively generate solutions, encouraging trust and understanding across disciplines<REFERENCE>. This practice was primarily shaped by the theory within the book 'Agile Game Development With Scrum' by Clinton Keith (2010), as well as supporting research from various websites, including Scrum.org (Scrum.org, n.d.).
+This week I ran sprint retrospective, guiding the team as we did an internal demonstration of the latest build, went through what had worked well, what had caused problems, and things that could be done to improve, throughout the last sprint. This was then used to help guide the tasks for the next sprint, alongside the project backlog. This allows and encourages developers to share problems they have encountered and allows the team to collaboratively generate solutions, encouraging trust and understanding across disciplines as everyone is made aware of problems facing others, including problems they may be reponsible for. This practice was primarily shaped by the theory within the book 'Agile Game Development With Scrum' by Clinton Keith (2010), as well as supporting research from various websites, including Scrum.org (Scrum.org, n.d.).
 
-Alongside this game jam I have been working on improving my art fundamentals, and have been attending undergrad lectures as part of this. This has included study of the Andrew Loomis proportion charts for both the body (2021a) and the head (2021b). While I had seen these before I hadn't done any proper focused studies on them, and while I still need to do that I have begun applying the basics in sketching silhouettes as well as during Life Drawing. Having internalised the basic "8 heads" proportions I'm finding they are becoming more instinctual, as well as giving me incredibly useful reference to pull from. As such, these drawings have become the start of, to borrow a phrase from my programming work, my debugging checklist for when I am drawing humanoids and the drawing is feeling off. As mentioned, I have been doing silhouette studies as a method of practice, both for my understanding of proportion given that I can do a lot of figures very quickly, and because producing silhouettes is an important part of concept art so will be a useful skill to demonstrate I can do for industry <REFERENCE SILHOUETTES IN INDUSTRY>.
+Alongside this game jam I have been working on improving my art fundamentals, and have been attending undergrad lectures as part of this. This has included study of the Andrew Loomis proportion charts for both the body (2021a) and the head (2021b). While I had seen these before I hadn't done any proper focused studies on them, and while I still need to do that I have begun applying the basics in sketching silhouettes as well as during Life Drawing. Having internalised the basic "8 heads" proportions I'm finding they are becoming more instinctual, as well as giving me incredibly useful reference to pull from. As such, these drawings have become the start of, to borrow a phrase from my programming work, my debugging checklist for when I am drawing humanoids and the drawing is feeling off. As mentioned, I have been doing silhouette studies as a method of practice, both for my understanding of proportion given that I can do a lot of figures very quickly, and because producing silhouettes is an important part of concept art so will be a useful skill to demonstrate I can do for industry. The importance of producing silhouettes comes from both its speed, something essential during the early stages of development (Howtonotsuckatgamedesign, 2014), and that it forces an artist to focus on shape language and initial read (Administrator, 2014), rather than getting lost in the detail of a design too early.
+
+<h4>References</h4>
+Loomis, A., 2021a. Figure drawing for all it's worth. Clube de Autores.
+
+Loomis, A., 2021b. Drawing the Head & Hands. Clube de Autores.
+
+Scrum.org. (n.d.). What is a Sprint Review? [online] Available at: https://www.scrum.org/resources/what-is-a-sprint-review.
+
+‌Keith, C., 2010. Agile game development with Scrum. Pearson Education.
+
+Howtonotsuckatgamedesign. (2014). Let’s Get Real About Concept Art. [online] Available at: http://howtonotsuckatgamedesign.com/2014/02/lets-get-real-concept-art/.
+
+Administrator (2014). Shape Language & Silhouette in Art & Design. [online] ConceptStart.net. Available at: https://www.conceptstart.net/art-tutorial/improve-shape-language-silhouette-in-concept-art-design-illustration.
+
+
 
 <h2>Week 2: 26/09/22 - 02/10/22</h2>
 Following from my decisions in Week 1 regarding undergrad modules, I have arranged to meet with my academic tutor on a regular basis to check I am on track for my goals for the course. This has value due to them having more experience in the field, so they will likely have a better perspective on if my skill progression is on track, as well as having more experience of students progressing through the masters so would be able to highlight if there were areas that I was progressing slower than expected with. This then allows me to refocus my practice, or seek extra support, in these areas.
@@ -25,21 +44,19 @@ Given that a majority of games, even smaller indie titles, are produced over sev
 
 These three factors fed into my primary concern during ideation, which was scope, as overscoping can cause crunch, increase developer stress, and result in features being cut close to a deadline. We explored several ideas for managing scope, such as designing a lot of modularity and reusability into our environments and mechanics, effectively increasing the <i>value</i> of each piece of work produced. We began ideation with a session of brainstorming, which served the dual purpose of acting as a team building exercise (Chandler, H.M., 2009, p. 221), allowing us to explore all ideas without committing to something that was out of scope.
 
-<h2>References</h2>
-Chandler, H.M., 2009, p. 221. The game production handbook. Jones & Bartlett Publishers.
-
-Tuckman, B.W., 1965, p.384. Developmental sequence in small groups. Psychological bulletin, 63(6).
+<h4>References</h4>
+jobs.lever.co. (n.d.). Jagex jobs. [online] Available at: https://jobs.lever.co/jagex [Accessed 6 Oct. 2022].
 
 Dana (n.d.). How Long Does It Take To Develop a Video Game? [online] Available at: https://geekygamingstuff.com/how-long-does-it-take-to-develop-video-games/.
 
+Tuckman, B.W., 1965, p.384. Developmental sequence in small groups. Psychological bulletin, 63(6).
+
 Intel. (2018). Step Up Your 3D Asset Pipeline. [online] Available at: https://www.intel.com/content/www/us/en/developer/articles/technical/step-up-your-3d-asset-pipeline.html [Accessed 5 Oct. 2022].
 
-Loomis, A., 2021a. Figure drawing for all it's worth. Clube de Autores.
+Chandler, H.M., 2009, p. 221. The game production handbook. Jones & Bartlett Publishers.
 
-Loomis, A., 2021b. Drawing the Head & Hands. Clube de Autores.
 
-jobs.lever.co. (n.d.). Jagex jobs. [online] Available at: https://jobs.lever.co/jagex [Accessed 6 Oct. 2022].
 
-Scrum.org. (n.d.). What is a Sprint Review? [online] Available at: https://www.scrum.org/resources/what-is-a-sprint-review.
 
-‌Keith, C., 2010. Agile game development with Scrum. Pearson Education.
+
+
