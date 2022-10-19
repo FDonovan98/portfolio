@@ -7,8 +7,15 @@ nav-menu: true
 show_tile: true
 tile_order: 3
 ---
-<!-- <h2>Week 4: 10/10/22 - 16/10/22</h2> -->
+<!-- <h2>Week 5: 17/10/22 - 23/10/22</h2>
+Downscaled side project to prioritise practicing UVs and learning zBrush over making a complicated model -->
+manually UV unwrapped model, following iterative process. Initial cylinder unwrap, unfolded, straightened and added manual cuts to improve automatic seam placement. additional planar maps to grab mug bottoms and edges, checking for stretching using checkermap in maya. imported into substance to do quick check for noticable seams or overlapping seams. seperated supporting band caps due to them causing overlapping uvs while attached. straightened and arranged uvmaps, then consulted with academic for possible improvement, who advised better cut placements and advised that cylinder projection could be rotated before unwrapping to provide cleaner unwraps. 
 
+<h2>Week 4: 10/10/22 - 16/10/22</h2>
+finished console asset
+lighting pass in engine
+continued mentoring two artists who were new to 3D, supporting with both maya and substance, as well as continued support with version control using git. taught and ongoing support for importing finished models into game engine, in this case unity
+assist in first year lectures - want to pursue leadership roles so useful experience, also enjoyable
 
 
 <h2>Week 3: 03/10/22 - 09/10/22</h2>
@@ -17,6 +24,8 @@ tile_order: 3
 This week I ran sprint retrospective, guiding the team as we did an internal demonstration of the latest build, went through what had worked well, what had caused problems, and things that could be done to improve, throughout the last sprint. This was then used to help guide the tasks for the next sprint, alongside the project backlog. This allows and encourages developers to share problems they have encountered and allows the team to collaboratively generate solutions, encouraging trust and understanding across disciplines as everyone is made aware of problems facing others, including problems they may be reponsible for. This practice was primarily shaped by the theory within the book 'Agile Game Development With Scrum' by Clinton Keith (2010), as well as supporting research from various websites, including Scrum.org (Scrum.org, n.d.).
 
 Alongside this game jam I have been working on improving my art fundamentals, and have been attending undergrad lectures as part of this. This has included study of the Andrew Loomis proportion charts for both the body (2021a) and the head (2021b). While I had seen these before I hadn't done any proper focused studies on them, and while I still need to do that I have begun applying the basics in sketching silhouettes as well as during Life Drawing. Having internalised the basic "8 heads" proportions I'm finding they are becoming more instinctual, as well as giving me incredibly useful reference to pull from. As such, these drawings have become the start of, to borrow a phrase from my programming work, my debugging checklist for when I am drawing humanoids and the drawing is feeling off. As mentioned, I have been doing silhouette studies as a method of practice, both for my understanding of proportion given that I can do a lot of figures very quickly, and because producing silhouettes is an important part of concept art so will be a useful skill to demonstrate I can do for industry. The importance of producing silhouettes comes from both its speed, something essential during the early stages of development (Howtonotsuckatgamedesign, 2014), and that it forces an artist to focus on shape language and initial read (Administrator, 2014), rather than getting lost in the detail of a design too early.
+
+set up art git
 
 <h4>References</h4>
 Loomis, A., 2021a. Figure drawing for all it's worth. Clube de Autores.
