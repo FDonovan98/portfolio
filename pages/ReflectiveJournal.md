@@ -7,7 +7,7 @@ nav-menu: true
 show_tile: true
 tile_order: 3
 ---
-<!-- <h2>Week 5: 17/10/22 - 23/10/22</h2>
+<h2>Week 5: 17/10/22 - 23/10/22</h2>
 Downscaled side project to prioritise practicing UVs and learning zBrush over making a complicated model
 manually UV unwrapped model, following iterative process. Initial cylinder unwrap, unfolded, straightened and added manual cuts to improve automatic seam placement. additional planar maps to grab mug bottoms and edges, checking for stretching using checkermap in maya. imported into substance to do quick check for noticable seams or overlapping seams. seperated supporting band caps due to them causing overlapping uvs while attached. straightened and arranged uvmaps, then consulted with academic for possible improvement, who advised better cut placements and advised that cylinder projection could be rotated before unwrapping to provide cleaner unwraps. 
 
@@ -15,7 +15,7 @@ manually UV unwrapped model, following iterative process. Initial cylinder unwra
 finished console asset
 lighting pass in engine
 continued mentoring two artists who were new to 3D, supporting with both maya and substance, as well as continued support with version control using git. taught and ongoing support for importing finished models into game engine, in this case unity
-assist in first year lectures - want to pursue leadership roles so useful experience, also enjoyable -->
+assist in first year lectures - want to pursue leadership roles so useful experience, also enjoyable
 
 
 <h2>Week 3: 03/10/22 - 09/10/22</h2>
