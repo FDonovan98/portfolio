@@ -8,14 +8,15 @@ show_tile: true
 tile_order: 3
 ---
 <h2>Week 5: 17/10/22 - 23/10/22</h2>
-Downscaled side project to prioritise practicing UVs and learning zBrush over making a complicated model
-manually UV unwrapped model, following iterative process. Initial cylinder unwrap, unfolded, straightened and added manual cuts to improve automatic seam placement. additional planar maps to grab mug bottoms and edges, checking for stretching using checkermap in maya. imported into substance to do quick check for noticable seams or overlapping seams. seperated supporting band caps due to them causing overlapping uvs while attached. straightened and arranged uvmaps, then consulted with academic for possible improvement, who advised better cut placements and advised that cylinder projection could be rotated before unwrapping to provide cleaner unwraps. 
+I decided to downscale my ongoing side project to prioritise practicing UVs and learning zBrush over making a complicated model.
+Manually UVing this scaled down model is the first time I've manaully unwrapped an asset, having relied on auto-unwrap until now. Initial cylinder unwrap, unfolded, straightened and added manual cuts to improve automatic seam placement. additional planar maps to grab mug bottoms and edges, checking for stretching using checkermap in maya. imported into substance to do quick check for noticable seams or overlapping seams. seperated supporting band caps due to them causing overlapping uvs while attached. straightened and arranged uvmaps, then consulted with academic for possible improvement, who advised better cut placements and advised that cylinder projection could be rotated before unwrapping to provide cleaner unwraps. 
+zbrush wood sculpting, began texturing
 
 <h2>Week 4: 10/10/22 - 16/10/22</h2>
 During a consultation with other artists on our team, a bad habit I have developed was highlighted, which was always trying to make an asset out of a single mesh. While I have found modelling an asset from a single mesh reduces the likelihood of producing overlapping faces, which could cause artifacting and take up additional space when UVing, a section of a model can often be easier and quicker to model individually. This single-mesh-manipulation can also produce undesirable topology compared to modelling parts separately, potentially increasing the polycount of a model significantly. As such, I aim to actively consider whether a part of my model would be better to model separately moving forward, as there are certainly use cases for this method, it should not be the method I <i>always</i> use.
 
-lighting pass in engine
-continued mentoring two artists who were new to 3D, supporting with both maya and substance, as well as continued support with version control using git. taught and ongoing support for importing finished models into game engine, in this case unity
+I also did an initial lighting pass for our game, focusing on tailoring the lighting to create the atmosphere we wanted.
+I continued mentoring two artists on our team who were new to both 3D and game development, supporting their use of both maya and substance, as well as continued support with version control using git. As part of this, I taught and provided them with ongoing support for importing finished models into our game engine, in this case Unity.
 assist in first year lectures - want to pursue leadership roles so useful experience, also enjoyable
 
 <h2>Week 3: 03/10/22 - 09/10/22</h2>
