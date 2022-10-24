@@ -7,10 +7,10 @@ nav-menu: true
 show_tile: true
 tile_order: 3
 ---
-<!-- <h2>Week 5: 17/10/22 - 23/10/22</h2>
+<h2>Week 5: 17/10/22 - 23/10/22</h2>
 I decided to downscale my ongoing side project to prioritise practicing UVs and learning zBrush over making a complicated model.
 Manually UVing this scaled down model is the first time I've manaully unwrapped an asset, having relied on auto-unwrap until now. Initial cylinder unwrap, unfolded, straightened and added manual cuts to improve automatic seam placement. additional planar maps to grab mug bottoms and edges, checking for stretching using checkermap in maya. imported into substance to do quick check for noticable seams or overlapping seams. seperated supporting band caps due to them causing overlapping uvs while attached. straightened and arranged uvmaps, then consulted with academic for possible improvement, who advised better cut placements and advised that cylinder projection could be rotated before unwrapping to provide cleaner unwraps. 
-zbrush wood sculpting, began texturing -->
+zbrush wood sculpting, began texturing
 
 <h2>Week 4: 10/10/22 - 16/10/22</h2>
 During a consultation with other artists on our team, a bad habit I have developed was highlighted, which was always trying to make an asset out of a single mesh. While I have found modelling an asset from a single mesh reduces the likelihood of producing overlapping faces, which could cause artifacting and take up additional space when UVing, a section of a model can often be easier and quicker to model individually. This single-mesh-manipulation can also produce undesirable topology compared to modelling parts separately, potentially increasing the polycount of a model significantly. As such, I aim to actively consider whether a part of my model would be better to model separately moving forward, as while there are certainly use cases for the single-mesh method, it should not be the method I <i>always</i> use.
