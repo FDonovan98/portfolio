@@ -18,7 +18,7 @@ I hope to continue mentoring into the next module as I thoroughly enjoy it, find
 Most likely, I will continue writing these reflective practice's, although likely write them much quicker and more loosely as so far these have been for an assessment, but as I carry out reflective practice anyway it likely makes sense to have a written, demonstrable record of my process and practice.
 
 <h2>Week 5: 17/10/22 - 23/10/22</h2>
-<i>The model this section refers to can be found on my Artstation, at LINK</i>
+<i>The model this section refers to can be found on my Artstation, at <a href="https://www.artstation.com/artwork/xYnQKY">https://www.artstation.com/artwork/xYnQKY</a></i>
 
 I decided to downscale my ongoing side project to prioritise practising UVs and learning zBrush over making a complicated model. This smaller scope allows me to work iteratively on the project, giving me the time to complete a stage and then redo it to practice lessons learned during the first pass, and act on feedback received from both peers and academics. For example, I unwrapped the blockout in order to practice manually UV unwrapping, which allowed me to then create better UVs faster when it came to actually unwrapping the low-poly, while also allowing me to create the low-poly with considerations for how it would unwrap, rather than just creating it and the UVs being an afterthought.
 
