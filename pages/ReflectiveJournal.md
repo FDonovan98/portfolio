@@ -7,8 +7,8 @@ nav-menu: true
 show_tile: true
 tile_order: 3
 ---
-<h2>November?</h2>
-Begun collecting reference for next module, planning to develop an environment that could also be submitted for GiG Rising Star. Idea is a desecrated church, pulling reference from abandoned churches, occult rituals (hollywood more than irl), and style reference from env artists on runescape at jagex as I plan to apply to there in the future and I love the style. Gather large ref board then prune through, narrowing down references and highlighting specific areas or features I want to use with each reference.
+<h2>11/11/22 - 18/11/22</h2>
+I began collecting reference for my next module, planning to develop an environment that could also be submitted for GiG Rising Star. My current idea is a desecrated church, pulling reference from abandoned churches, occult rituals as portrayed by hollywood more than real life, and style reference from environment artists for Runescape. I love their style and am planning to apply there upon graduation so seems sensible style my work after theirs. I've gathered a large reference board to pull from, probably larger than strictly needed, but it means I can have to resort to web searches less than I otherwise would, speeding up my process.
 
 Been working on my environment concept, starting an initial concept in Maya, getting it exported super early into UE5 to do a lighting pass to start to get an idea for the atmosphere I want to portray, as well as the broad shapes, as seen in the leftmost photo. After more iterations I was happy with how my rough blockout was looking (middle photo), so have now moved into zBrush to start doing a more detailed blockout, the start of which can be seen in the rightmost photo. I decided to switch to zBrush for this as I want to try the zModeller brush, mostly because it has live booleans and I really enjoy the workflow they enable. Having spent a day starting to get my head around it, it's exciting and promising, I'll need longer to see but I may actually prefer it over Maya for hard surface, it feels closer to Blender which is positive. 
 
@@ -20,6 +20,10 @@ Been working on my environment concept, starting an initial concept in Maya, get
     </div>
 <div>
 
+As you can see, while my idea started as an interior I have shifted to an external shot as it's what I felt more drawn too, and I believe it will be more reasonable and flexible in terms of project scope. While an interior could need a good amount of props to decorate, I am hoping to be able to repeat a lot of detail that I sculpt for the outside. 
+
+<p style="margin-bottom:3cm;"></p>
+
 <h2>September, October, and The Future</h2>
 This initial period of my masters has been focused around 'finding the passion', experimenting and finding the area of game art that I am most drawn to, and then planning my development pathway with this in mind.
 Moving forward I will be scaling down the time committed to developing my 2D skills, as I was spending a quarter of my time on it. While still a useful aspect, it is not an area I am as passionate about, so while I continue to attend first year concept art lectures the time I spend practising these concepts will be reduced. This will allow me to dedicate more time to the most compelling and important aspects for my future career, primarily the development of assets and environments in Maya, zBrush, and in engine.
@@ -30,12 +34,16 @@ I hope to continue mentoring into the next module as I thoroughly enjoy it, find
 
 Most likely, I will continue writing these reflective posts, although will likely write them much quicker and more loosely as so far these have been for an assessment. As I carry out reflective practice anyway it makes sense to have a written, demonstrable record of my process and practice, regardless of whether I am assessed on it.
 
+<p style="margin-bottom:3cm;"></p>
+
 <h2>Week 5: 17/10/22 - 23/10/22</h2>
 <i>The model this section refers to can be found on my Artstation, at <a href="https://www.artstation.com/artwork/xYnQKY">https://www.artstation.com/artwork/xYnQKY</a></i>
 
 I decided to downscale my ongoing side project to prioritise practising UVs and learning zBrush over making a complicated model. This smaller scope allows me to work iteratively on the project, giving me the time to complete a stage and then redo it to practice lessons learned during the first pass, and act on feedback received from both peers and academics. For example, I unwrapped the blockout in order to practice manually UV unwrapping, which allowed me to then create better UVs faster when it came to actually unwrapping the low-poly, while also allowing me to create the low-poly with considerations for how it would unwrap, rather than just creating it and the UVs being an afterthought.
 
 The blockout was then exported to zBrush to sculpt wear onto the metal and grain onto the wood. Designing the asset with panelling allowed me to overlap UVs to save on creation time, however I instead used the panelling to do batches of practice and reflection. This facilitated experimentation and direct comparison, and led to rapid improvements with the final panel being of a significantly higher quality than the first one. This was partly due to selection of a better brush and preview material, and partly from being more familiar with the software, both through practice and through arranging a software 'masterclass' from an assistant lecturer who specialised in zBrush.
+
+<p style="margin-bottom:3cm;"></p>
 
 <h2>Week 4: 10/10/22 - 16/10/22</h2>
 During a consultation with other artists on our team, a bad habit I have developed was highlighted, which was always trying to make an asset out of a single mesh. While I have found modelling an asset from a single mesh reduces the likelihood of producing overlapping faces, which could cause artifacting and take up additional space when UVing, a section of a model can often be easier and quicker to model individually. This single-mesh-manipulation can also produce undesirable topology compared to modelling parts separately, potentially increasing the polycount of a model significantly. As such, I aim to actively consider whether a part of my model would be better to model separately moving forward, as while there are certainly use cases for the single-mesh method, it should not be the method I <i>always</i> use.
@@ -48,7 +56,7 @@ I also did an initial lighting pass for our game, utilising a three-point lighti
 <h4>References</h4>
 Atlassian (n.d.). Git merge conflicts | Atlassian Git Tutorial. [online] Atlassian. Available at: https://www.atlassian.com/git/tutorials/using-branches/merge-conflicts.
 
-‌
+<p style="margin-bottom:3cm;"></p>‌
 
 <h2>Week 3: 03/10/22 - 09/10/22</h2>
 <!-- Sprint review, escalation and conclusion of team difficulties by individual leaving the group -->
@@ -72,10 +80,12 @@ Howtonotsuckatgamedesign. (2014). Let’s Get Real About Concept Art. [online] A
 
 Administrator (2014). Shape Language & Silhouette in Art & Design. [online] ConceptStart.net. Available at: https://www.conceptstart.net/art-tutorial/improve-shape-language-silhouette-in-concept-art-design-illustration.
 
-
+<p style="margin-bottom:3cm;"></p>
 
 <h2>Week 2: 26/09/22 - 02/10/22</h2>
 Following from my decisions in Week 1 regarding undergrad modules, I have arranged to meet with my academic tutor on a regular basis to check I am on track for my goals for the course. This has value due to them having more experience in the field, so they will likely have a better perspective on if my skill progression is on track, as well as having more experience of students progressing through the masters so would be able to highlight if there were areas that I was progressing slower than expected with. This then allows me to refocus my practice, or seek extra support, in these areas.
+
+<p style="margin-bottom:3cm;"></p>
 
 <h2>Week 1: 19/09/22 - 25/09/22</h2>
 This was the first week of the Game Art Masters at Falmouth University, which was incredibly busy as I attended lectures for seven different undergrad modules, as well as the lectures for my masters module. While intense, this aided in 'evaluating' the undergrad modules, as I wanted to attend them to aid in the development of my artistic skills and knowledge, but given I have limited time per week I can't attend every undergrad lecture. I decided to attend first year Concept Art and Environment Art lectures as these aligned with my desired future role of Junior Environment Artist, preferably at Jagex, building on both my 2D and 3D skills. More generally, I am wanting to develop my skills towards being able to design, concept, and produce environments for players to explore, taking into account artistic considerations such as atmosphere, lighting, colour palette etc., and combining this with design considerations like how the area is revealed to the player and guiding them along specific paths and highlighting important areas or items. Looking at the Jagex job posting for the role (jobs.lever.co, n.d.) one thing they want as a bonus is traditional 2D art skills, which further increases the value of the first year Concept Art module for me, as well providing a reason for me to continue attending Life Drawing sessions.
