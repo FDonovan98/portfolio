@@ -8,19 +8,30 @@ show_tile: true
 tile_order: 3
 ---
 <h2>11/11/22 - 18/11/22</h2>
-I began collecting reference for my next module, planning to develop an environment that could also be submitted for GiG Rising Star. My current idea is a desecrated church, pulling reference from abandoned gothic churches, occult rituals as portrayed by hollywood more than real life, and style reference from environment artists for Runescape. I love their style and am planning to apply there upon graduation so seems sensible to style my work after theirs. I've gathered a large reference board to pull from, probably larger than strictly needed, but it means I have to resort to web searches less than I otherwise would, speeding up my process.
+I began collecting reference for my next module, planning to develop an environment that could also be submitted for the Grads in Games Rising Star competition. My idea started as a desecrated church, pulling reference from abandoned gothic churches, occult rituals as portrayed by hollywood more than real life, and style reference from environment artists for Runescape. I love their style and am planning to apply there upon graduation, so it seems sensible to reference their work while designing my own. I've gathered a large reference board to pull from, probably larger than strictly needed, but it means I have to resort to web searches less than I otherwise would, speeding up my process.
 
-Working on my environment concept, I starting an initial blockout in Maya, getting it exported super early into UE5 to do a lighting pass to start to get an idea for the atmosphere I want to portray as seen in the leftmost photo. After more iterations I was happy with how my rough blockout was looking (middle photo), so have now moved into zBrush to start doing a more detailed blockout, the start of which can be seen in the rightmost photo. I decided to switch to zBrush for this as I want to try the zModeller brush, mostly because it has live booleans and I really enjoy the workflow they enable. Having spent a day starting to get my head around it, it's exciting and promising, I'll need longer to see but I may actually prefer it over Maya for hard surface, it feels closer to Blender which is positive. 
+Working on my environment concept, I started with an initial blockout in Maya, which I exported super early into UE5 to do a lighting pass. This allowed me to get a better idea right from the beginning of the kind of atmosphere I wanted create with this piece. This blockout process was very iterative, refining and exporting it back into engine regularly to get an idea of the rough shapes I wanted and see how they looked when properly lit. I also discovered I could export Maya scenes to FBX via command line, so wrote a tiny script to remove some of the manual steps from this process. 
+You can see progress shots below from left to right, and can see me trialling some squarer designs for the top section before deciding it didn't fit the theme I was aiming for, scraping it, and replacing it with more layers of angled-roof towers.
+
+As you can tell by now, while my idea started as an interior I have shifted to an external shot as it's what I felt more drawn too, and I believe it will be more reasonable and flexible in terms of project scope. While an interior could need a good amount of props to decorate, with the exterior I'm hoping to be able to repeat a lot of detail and shapes that I create, saving me a lot of time.
 
 <div class="box alt">
-	<div class="row">
-		<div class="4u"><span class="image fit"><img src="{{ site.baseurl }}\assets\images\Cathedral\Cathedral_Progress(3).png" alt="" /></span></div>
-		<div class="4u"><span class="image fit"><img src="{{ site.baseurl }}\assets\images\Cathedral\Cathedral_Progress.png" alt="" /></span></div>
-		<div class="4u$"><span class="image fit"><img src="{{ site.baseurl }}\assets\images\Cathedral\Cathedral_Progress(2).png" alt="" /></span></div>
-    </div>
+	<div class ="column">
+		<div class="row">
+			<div class="4u"><span class="image fit"><img src="{{ site.baseurl }}\assets\images\Cathedral\Cathedral_Blockout_Progress_1.png" alt="" /></span></div>
+			<div class="4u"><span class="image fit"><img src="{{ site.baseurl }}\assets\images\Cathedral\Cathedral_Blockout_Progress_3.png" alt="" /></span></div>
+			<div class="4u"><span class="image fit"><img src="{{ site.baseurl }}\assets\images\Cathedral\Cathedral_Blockout_Progress_2.png" alt="" /></span></div>
+		</div>
+		<div class ="row">
+			<div class="4u"><span class="image fit"><img src="{{ site.baseurl }}\assets\images\Cathedral\Cathedral_Blockout_Progress_5.png" alt="" /></span></div>
+			<div class="4u"><span class="image fit"><img src="{{ site.baseurl }}\assets\images\Cathedral\Cathedral_Blockout_Progress_4.png" alt="" /></span></div>
+			<div class="4u"><span class="image fit"><img src="{{ site.baseurl }}\assets\images\Cathedral\Cathedral_Blockout_Progress_6.png" alt="" /></span></div>
+		</div>
 <div>
 
-As you can see, while my idea started as an interior I have shifted to an external shot as it's what I felt more drawn too, and I believe it will be more reasonable and flexible in terms of project scope. While an interior could need a good amount of props to decorate, I am hoping to be able to repeat a lot of detail that I sculpt for the outside to save time.
+After these iterations I was happy with how my rough blockout was looking, and have now moved into zBrush to start doing a more detailed blockout, the start of which can be seen below. I decided to switch to zBrush for this as I want to try the zModeller brush, mostly because it has live booleans and I really enjoy the workflow they enable. Having spent a day starting to get my head around it, it's exciting and promising, I'll need longer to see but I may actually prefer it over Maya for hard surface, it feels closer to Blender which is positive. Now that I've got a boolean constructed to generated the stepped arches around the door frame, I'm planning to duplicate it and use it for the window cut outs. This should give a consistent feel to the building by having repeated shapes and motif's, while also saving me time.
+
+<div class="4u$"><span class="image fit"><img src="{{ site.baseurl }}\assets\images\Cathedral\Cathedral_Progress(2).png" alt="" /></span></div>
 
 <p style="margin-bottom:3cm;"></p>
 
