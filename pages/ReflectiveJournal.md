@@ -8,9 +8,9 @@ show_tile: true
 tile_order: 3
 ---
 <h2>11/11/22 - 18/11/22</h2>
-I began collecting reference for my next module, planning to develop an environment that could also be submitted for GiG Rising Star. My current idea is a desecrated church, pulling reference from abandoned churches, occult rituals as portrayed by hollywood more than real life, and style reference from environment artists for Runescape. I love their style and am planning to apply there upon graduation so seems sensible style my work after theirs. I've gathered a large reference board to pull from, probably larger than strictly needed, but it means I can have to resort to web searches less than I otherwise would, speeding up my process.
+I began collecting reference for my next module, planning to develop an environment that could also be submitted for GiG Rising Star. My current idea is a desecrated church, pulling reference from abandoned gothic churches, occult rituals as portrayed by hollywood more than real life, and style reference from environment artists for Runescape. I love their style and am planning to apply there upon graduation so seems sensible to style my work after theirs. I've gathered a large reference board to pull from, probably larger than strictly needed, but it means I have to resort to web searches less than I otherwise would, speeding up my process.
 
-Been working on my environment concept, starting an initial concept in Maya, getting it exported super early into UE5 to do a lighting pass to start to get an idea for the atmosphere I want to portray, as well as the broad shapes, as seen in the leftmost photo. After more iterations I was happy with how my rough blockout was looking (middle photo), so have now moved into zBrush to start doing a more detailed blockout, the start of which can be seen in the rightmost photo. I decided to switch to zBrush for this as I want to try the zModeller brush, mostly because it has live booleans and I really enjoy the workflow they enable. Having spent a day starting to get my head around it, it's exciting and promising, I'll need longer to see but I may actually prefer it over Maya for hard surface, it feels closer to Blender which is positive. 
+Working on my environment concept, I starting an initial blockout in Maya, getting it exported super early into UE5 to do a lighting pass to start to get an idea for the atmosphere I want to portray as seen in the leftmost photo. After more iterations I was happy with how my rough blockout was looking (middle photo), so have now moved into zBrush to start doing a more detailed blockout, the start of which can be seen in the rightmost photo. I decided to switch to zBrush for this as I want to try the zModeller brush, mostly because it has live booleans and I really enjoy the workflow they enable. Having spent a day starting to get my head around it, it's exciting and promising, I'll need longer to see but I may actually prefer it over Maya for hard surface, it feels closer to Blender which is positive. 
 
 <div class="box alt">
 	<div class="row">
@@ -20,7 +20,7 @@ Been working on my environment concept, starting an initial concept in Maya, get
     </div>
 <div>
 
-As you can see, while my idea started as an interior I have shifted to an external shot as it's what I felt more drawn too, and I believe it will be more reasonable and flexible in terms of project scope. While an interior could need a good amount of props to decorate, I am hoping to be able to repeat a lot of detail that I sculpt for the outside. 
+As you can see, while my idea started as an interior I have shifted to an external shot as it's what I felt more drawn too, and I believe it will be more reasonable and flexible in terms of project scope. While an interior could need a good amount of props to decorate, I am hoping to be able to repeat a lot of detail that I sculpt for the outside to save time.
 
 <p style="margin-bottom:3cm;"></p>
 
