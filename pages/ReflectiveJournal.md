@@ -10,6 +10,16 @@ tile_order: 3
 <h2>November?</h2>
 Begun collecting reference for next module, planning to develop an environment that could also be submitted for GiG Rising Star. Idea is a desecrated church, pulling reference from abandoned churches, occult rituals (hollywood more than irl), and style reference from env artists on runescape at jagex as I plan to apply to there in the future and I love the style. Gather large ref board then prune through, narrowing down references and highlighting specific areas or features I want to use with each reference.
 
+Been working on my environment concept, starting an initial concept in Maya, getting it exported super early into UE5 to do a lighting pass to start to get an idea for the atmosphere I want to portray, as well as the broad shapes, as seen in the leftmost photo. After more iterations I was happy with how my rough blockout was looking (middle photo), so have now moved into zBrush to start doing a more detailed blockout, the start of which can be seen in the rightmost photo. I decided to switch to zBrush for this as I want to try the zModeller brush, mostly because it has live booleans and I really enjoy the workflow they enable. Having spent a day starting to get my head around it, it's exciting and promising, I'll need longer to see but I may actually prefer it over Maya for hard surface, it feels closer to Blender which is positive. 
+
+<div class="box alt">
+	<div class="row">
+		<div class="4u"><span class="image fit"><img src="{{ site.baseurl }}\assets\images\Cathedral\Cathedral_Progress(3).png" alt="" /></span></div>
+		<div class="4u"><span class="image fit"><img src="{{ site.baseurl }}\assets\images\Cathedral\Cathedral_Progress.png" alt="" /></span></div>
+		<div class="4u$"><span class="image fit"><img src="{{ site.baseurl }}\assets\images\Cathedral\Cathedral_Progress(2).png" alt="" /></span></div>
+    </div>
+<div>
+
 <h2>September, October, and The Future</h2>
 This initial period of my masters has been focused around 'finding the passion', experimenting and finding the area of game art that I am most drawn to, and then planning my development pathway with this in mind.
 Moving forward I will be scaling down the time committed to developing my 2D skills, as I was spending a quarter of my time on it. While still a useful aspect, it is not an area I am as passionate about, so while I continue to attend first year concept art lectures the time I spend practising these concepts will be reduced. This will allow me to dedicate more time to the most compelling and important aspects for my future career, primarily the development of assets and environments in Maya, zBrush, and in engine.
