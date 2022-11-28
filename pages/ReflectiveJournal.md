@@ -7,6 +7,12 @@ nav-menu: true
 show_tile: true
 tile_order: 3
 ---
+<h2>21/11/22 - 02/12/22</h2>
+zbrush first detail pass
+arraymesh
+live booleans are wonderful
+proud mentor moment
+
 <h2>11/11/22 - 18/11/22</h2>
 I began collecting reference for my next module, planning to develop an environment that could also be submitted for GiG Rising Star. My current idea is a desecrated church, pulling reference from abandoned gothic churches, occult rituals as portrayed by hollywood more than real life, and style reference from environment artists for Runescape. I love their style and am planning to apply there upon graduation so seems sensible to style my work after theirs. I've gathered a large reference board to pull from, probably larger than strictly needed, but it means I have to resort to web searches less than I otherwise would, speeding up my process.
 
