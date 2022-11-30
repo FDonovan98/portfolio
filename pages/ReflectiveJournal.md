@@ -8,10 +8,17 @@ show_tile: true
 tile_order: 3
 ---
 <h2>21/11/22 - 02/12/22</h2>
-zbrush first detail pass
-arraymesh
-live booleans are wonderful
+Began zbrush first detail pass, utilising arraymesh and live booleans which, especially when combined, are wonderful. They have allowed fast iteration over multiple areas at once, for example allows me to easily adjust the size or shape of one window and then see that change across the entire model. 
+Experimented with retopology in zbrush with a single window piece, as I was unsure how long retop would take so doing trial to answer that question, allowing me to the better estimate project timeline and ensure I hit deadline. Initial thought was to bake down to plane, however bake did not come out well. Then aiming for single chamfer between levels, and although initial problems, made good progress, using a mix of deleting edge loops, masking, and zremesher to begin to reduce polycount. Decided to do this in zBrush to experiement with the tools, however due to the nature of how the topology tool works, while I can see it being excellent for organic shapes, I think Maya's retopology tool may work better in this instance. I do however want to continue experiementing with retop in zbrush and will do further reserach before using Maya, as while Maya may be the better option <i>in this case</i>, it will be useful experience for future projects, and the less switching I have to do between software the faster and smoother my workflow is likely to be. Export/ import is slow and tends to be an area that errors can occur, further slowing work.
+
+Have designed asset to be able to create a modular kit to allow faster completion time (it's much quicker to unwrap an element once than 16 times) and allow for easy construction in engine. Hope to construct kit in such a way that building new buildings in engine would be quick and efficient, allowing me to create more variations of similar buildings in engine, or enabling a designer to do the same.
+
+realised neglected planning shot composition and final presentation, did some sketches to improve and add more visual interest to scene, seeking to frame building as focal point, looking at the third piece <a href="https://www.artstation.com/artwork/8w4Agn">here</a> by artist Zahir Aghakhani for inspiration, trying to block off one side of the screen and angle it in to lead eye to focal point. enjoy how diagonals run consistently from top left to bottom right, even the rain is slanting slightly in that direction, pulling the viewer in that direction, and use of broken/ picked up lines of tarpaulin to car in left of frame to lead eye to focal point in centre.
+I have a lot more ideas for what I could do here, including adding a landing platform to the end of the bridge, designed so it looks like a smaller, original platform that has then been expanded in a make-shift manner. Gives me an opportunity to do more environmental storytelling, something I would be really keen to include, as well as do a small walkthrough of the scene, going from the landing pad, up stairs onto the bridge, allowing a slow reveal of the main cathedral as the player mounts the stairs. While I am keen to do this, I am very aware of feature creep and don't want the project to get away from me, so it is an expansion that will go into the backlog for now as the rest of the piece is higher priority.
+
 proud mentor moment
+
+<p style="margin-bottom:3cm;"></p>
 
 <h2>11/11/22 - 18/11/22</h2>
 I began collecting reference for my next module, planning to develop an environment that could also be submitted for GiG Rising Star. My current idea is a desecrated church, pulling reference from abandoned gothic churches, occult rituals as portrayed by hollywood more than real life, and style reference from environment artists for Runescape. I love their style and am planning to apply there upon graduation so seems sensible to style my work after theirs. I've gathered a large reference board to pull from, probably larger than strictly needed, but it means I have to resort to web searches less than I otherwise would, speeding up my process.
