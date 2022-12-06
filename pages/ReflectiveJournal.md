@@ -8,15 +8,33 @@ show_tile: true
 tile_order: 3
 ---
 <h2>21/11/22 - 02/12/22</h2>
-This week I began the first detail pass of my Cathedral scene with zBrush, utilising arraymesh and live booleans which, especially when combined, are wonderful. They've allowed fast iteration over the whole model, enabling me to easily adjust the size or shape of one window and then see that change across the entire model. 
-I have also been xperimenting with retopology in zbrush on a single window piece, as I was unsure how long retopology would take. This small scale allows me to answer that question, letting me better estimate the project timeline and ensure I hit my deadline. My initial thought was to bake te detail down to plane, however this bake did not come out well. Then aiming for single chamfer between levels, and although initial problems, made good progress, using a mix of deleting edge loops, masking, and zremesher to begin to reduce polycount. Decided to do this in zBrush to experiement with the tools, however due to the nature of how the topology tool works, while I can see it being excellent for organic shapes, I think Maya's retopology tool may work better in this instance. I do however want to continue experiementing with retop in zbrush and will do further reserach before using Maya, as while Maya may be the better option <i>in this case</i>, it will be useful experience for future projects, and the less switching I have to do between software the faster and smoother my workflow is likely to be. Export/ import is slow and tends to be an area that errors can occur, further slowing work.
 
-Have designed asset to be able to create a modular kit to allow faster completion time (it's much quicker to unwrap an element once than 16 times) and allow for easy construction in engine. Hope to construct kit in such a way that building new buildings in engine would be quick and efficient, allowing me to create more variations of similar buildings in engine, or enabling a designer to do the same.
+This week I began the first detail pass of my Cathedral scene with zBrush, utilising arraymesh and live booleans which, especially when combined, are wonderful. They've allowed fast iteration over the whole model, enabling me to easily adjust the size or shape of one window and then see that change across the entire model. I've also done a second lighting pass with this updated model, which you can see below.
 
-realised neglected planning shot composition and final presentation, did some sketches to improve and add more visual interest to scene, seeking to frame building as focal point, looking at the third piece <a href="https://www.artstation.com/artwork/8w4Agn">here</a> by artist Zahir Aghakhani for inspiration, trying to block off one side of the screen and angle it in to lead eye to focal point. enjoy how diagonals run consistently from top left to bottom right, even the rain is slanting slightly in that direction, pulling the viewer in that direction, and use of broken/ picked up lines of tarpaulin to car in left of frame to lead eye to focal point in centre.
-I have a lot more ideas for what I could do here, including adding a landing platform to the end of the bridge, designed so it looks like a smaller, original platform that has then been expanded in a make-shift manner. Gives me an opportunity to do more environmental storytelling, something I would be really keen to include, as well as do a small walkthrough of the scene, going from the landing pad, up stairs onto the bridge, allowing a slow reveal of the main cathedral as the player mounts the stairs. While I am keen to do this, I am very aware of feature creep and don't want the project to get away from me, so it is an expansion that will go into the backlog for now as the rest of the piece is higher priority.
+<div class="box">
+	<div class="row">
+		<div class="6u"><span class="image fit"><img src="{{ site.baseurl }}\assets\images\Cathedral\Lighting_1.png" alt="" /></span></div>
+		<div class="6u$"><span class="image fit"><img src="{{ site.baseurl }}\assets\images\Cathedral\Lighting_2.png" alt="" /></span></div>
+	</div>
+</div>
 
-proud mentor moment
+I have also been experimenting with retopology in zbrush on a single window piece, as I was unsure how long retopology would take. This small scale allows me to answer that question, letting me better estimate the project timeline and ensure I hit my deadline. My initial thought was to bake te detail down to plane, however this bake did not come out well. Then aiming for single chamfer between levels, and after a fair bit of experimentation I got a good low poly model that bakes well by using zSphere. I decided to use zBrush for retopology here as I wanted to experiement with the tools, as the moer tools I know the more flexible I am and the better I can choose the correct tool for the job. Also, the less switching I have to do between software the faster and smoother my workflow is likely to be; the export/ import process is slow and tends to be an area that errors can occur.
+
+Throughout my process, i've intended the asset to be modular, allowing faster completion time (it's much quicker to unwrap an element once than 16 times) and allow for easy construction in engine. I aim to construct this kit in such a way that creating new buildings in engine is quick and efficient, allowing me or a designer to quickly develop new assets in engine.
+
+I also realised I neglected planning my shot composition and final presentation, so have done some quick sketches to improve and add more visual interest to the scene, seeking to frame the building as focal point. For reference, I've been looking at the third piece <a href="https://www.artstation.com/artwork/8w4Agn">here</a> by artist Zahir Aghakhani for inspiration, trying to block off one side of the screen and angle it in to lead eye to the focal point. I really enjoy with this piece how the diagonals run consistently from top left to bottom right, even the rain is slanting slightly in that direction, pulling the viewer in that direction, and use of broken & picked up lines from the tarpaulin to the car in the left of frame to lead the eye to the focal point.
+
+<div class="box">
+	<div class="row">
+		<div class="4u"><span class="image fit"><img src="{{ site.baseurl }}\assets\images\Cathedral\Lighting_2.png" alt="" /></span></div>
+		<div class="4u"><span class="image fit"><img src="{{ site.baseurl }}\assets\images\Cathedral\Composition_1.png" alt="" /></span></div>
+		<div class="4u$"><span class="image fit"><img src="{{ site.baseurl }}\assets\images\Cathedral\Composition_2.png" alt="" /></span></div>
+	</div>
+</div>
+
+I have a lot more ideas for what I could do here, including adding a landing platform to the end of the bridge, designed so it looks like a smaller, original platform that has then been expanded in a make-shift manner. This would give me an opportunity to do more environmental storytelling, something I would be really keen to include, as well as do a small walkthrough of the scene, going from the landing pad, up stairs onto the bridge, allowing a slow reveal of the main cathedral as the player mounts the stairs. While I am keen to do this, I am very aware of feature creep and don't want the project to get away from me, so it is an expansion that will go into the backlog for now as the rest of the piece is higher priority.
+
+Finally, totally just to brag but I had a very proud mentor moment, walking past one of my old mentees confidently explaining a process they hadn't heard of two months ago to a peer. One of several reasons I want to do more mentoring going forward, that is such a rewarding feeling!
 
 <p style="margin-bottom:3cm;"></p>
 
