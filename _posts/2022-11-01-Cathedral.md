@@ -8,7 +8,7 @@ released: December 2022
 # storefront: Steam
 # storeurl: https://store.steampowered.com/app/1836170/Castan/
 # roles: Producer
-display: true
+display: false
 ---
 Project intro, outline
 
