@@ -7,6 +7,11 @@ nav-menu: true
 show_tile: true
 tile_order: 3
 ---
+<h2>05/12/22 - 09/12/22</h2>
+
+Started playing with Substance Designer, creating a tileable stylised brick material. This was a lot of fun, and honestly way easier to get into than I had feared, I think my programming background really shines through here, letting me get to grips with node based process quickly. After importing this into engine, the standard tiling method, honestly, annoyed in how limited it was, I didn't want to have to use a slightly differently scaled material for each object of a different size! That seemed like a lot of busy work, so I spent a little time putting together a script so that the textures now scale in world space rather than object space, meaning any object I apply the material too will have bricks of the same size, with no extra work on my part. This is limited for now, working only in the world planes, as the effort to make it work in a general case isn't worth it when I don't have a use case for that functionality.
+<p style="margin-bottom:3cm;"></p>
+
 <h2>21/11/22 - 02/12/22</h2>
 
 This week I began the first detail pass of my Cathedral scene with zBrush, utilising arraymesh and live booleans which, especially when combined, are wonderful. They've allowed fast iteration over the whole model, enabling me to easily adjust the size or shape of one window and then see that change across the entire model. I've also done a second lighting pass with this updated model, which you can see below.
@@ -18,7 +23,7 @@ This week I began the first detail pass of my Cathedral scene with zBrush, utili
 	</div>
 </div>
 
-I have also been experimenting with retopology in zbrush on a single window piece, as I was unsure how long retopology would take. This small scale allows me to answer that question, letting me better estimate the project timeline and ensure I hit my deadline. My initial thought was to bake te detail down to plane, however this bake did not come out well. Then aiming for single chamfer between levels, and after a fair bit of experimentation I got a good low poly model that bakes well by using zSphere. I decided to use zBrush for retopology here as I wanted to experiement with the tools, as the moer tools I know the more flexible I am and the better I can choose the correct tool for the job. Also, the less switching I have to do between software the faster and smoother my workflow is likely to be; the export/ import process is slow and tends to be an area that errors can occur.
+I have also been experimenting with retopology in zBrush on a single window piece, as I was unsure how long retopology would take. This small scale allows me to answer that question, letting me better estimate the project timeline and ensure I hit my deadline. My initial thought was to bake te detail down to plane, however this bake did not come out well. Then aiming for single chamfer between levels, and after a fair bit of experimentation I got a good low poly model that bakes well by using zSphere. I decided to use zBrush for retopology here as I wanted to experiment with the tools, as the more tools I know the more flexible I am and the better I can choose the correct tool for the job. Also, the less switching I have to do between software the faster and smoother my workflow is likely to be; the export/ import process is slow and tends to be an area that errors can occur.
 
 Throughout my process, i've intended the asset to be modular, allowing faster completion time (it's much quicker to unwrap an element once than 16 times) and allow for easy construction in engine. I aim to construct this kit in such a way that creating new buildings in engine is quick and efficient, allowing me or a designer to quickly develop new assets in engine.
 
