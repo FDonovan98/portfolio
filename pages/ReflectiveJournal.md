@@ -9,7 +9,7 @@ tile_order: 3
 ---
 <h2>21/11/22 - 02/12/22</h2>
 
-This week I began the first detail pass of my Cathedral scene with zBrush, utilising arraymesh and live booleans which, especially when combined, are wonderful. They've allowed fast iteration over the whole model, enabling me to easily adjust the size or shape of one window and then see that change across the entire model. I've also done a second lighting pass with this updated model, which you can see below.
+This week I began the first detail pass of my Cathedral scene with zBrush, utilising Arraymesh and Live Booleans which, especially when combined, are wonderful. They've allowed fast iteration over the whole model, enabling me to easily adjust the size or shape of one window and then see that change across the entire model. I've also done a second lighting pass with this updated model, which you can see below.
 
 <div class="box">
 	<div class="row">
@@ -18,7 +18,7 @@ This week I began the first detail pass of my Cathedral scene with zBrush, utili
 	</div>
 </div>
 
-I have also been experimenting with retopology in zbrush on a single window piece, as I was unsure how long retopology would take. This small scale allows me to answer that question, letting me better estimate the project timeline and ensure I hit my deadline. My initial thought was to bake te detail down to plane, however this bake did not come out well. Then aiming for single chamfer between levels, and after a fair bit of experimentation I got a good low poly model that bakes well by using zSphere. I decided to use zBrush for retopology here as I wanted to experiement with the tools, as the moer tools I know the more flexible I am and the better I can choose the correct tool for the job. Also, the less switching I have to do between software the faster and smoother my workflow is likely to be; the export/ import process is slow and tends to be an area that errors can occur.
+I have also been experimenting with retopology in zBrush on a single window piece, as I was unsure how long retopology would take. This small scale allows me to answer that question, letting me better estimate the project timeline and ensure I hit my deadline. My initial thought was to bake te detail down to plane, however this bake did not come out well. Then aiming for single chamfer between levels, and after a fair bit of experimentation I got a good low poly model that bakes well by using zSphere. I decided to use zBrush for retopology here as I wanted to experiment with the tools, as the more tools I know the more flexible I am and the better I can choose the correct tool for the job. Also, the less switching I have to do between software the faster and smoother my workflow is likely to be; the export/ import process is slow and tends to be an area that errors can occur.
 
 Throughout my process, i've intended the asset to be modular, allowing faster completion time (it's much quicker to unwrap an element once than 16 times) and allow for easy construction in engine. I aim to construct this kit in such a way that creating new buildings in engine is quick and efficient, allowing me or a designer to quickly develop new assets in engine.
 
