@@ -7,10 +7,18 @@ nav-menu: true
 show_tile: true
 tile_order: 3
 ---
+<h2>26/12/22 - 30/12/22</h2>
+<span class="image left"><img src="{{ site.baseurl }}/assets/images/Cathedral/Chain_Box_Cross.png" alt="" /></span>
+Logo retopology, experimenting with different methods for doing lowpoly for chains. Trialled using a surrounding box, and using two intersecting planes forming a cross aligned with the chain links. The surrounding box did not look good even when using an opacity mask, while the cross method worked incredibly well. You can see the comparison in the image to the left, with the cross at the front and box behind, and the difference is obvious. The cross method also has half the polycount, which is a nice bonus. I also separated the main logo and each chain section into different objects and made use of the <i>Match By Mesh Names</i> option when baking maps to minimise artifacting from the chains on the main logo body, which you can see is present in the screencap on the left.
+
+<p style="margin-bottom:3cm;"></p>
+
 <h2>12/12/22 - 16/12/22</h2>
 More thorough investigation and experimentation with retopology in zBrush, experimenting extensively with dynamesh, zRemesher and zSphere. My conclusion is that these tools will be invaluable, under the right circumstances. For example, I can see these tools saving significant amounts of time with organic assets or assets with more uniform topologically density, however it struggled to appropriately vary topology density with the assets I was using, even when using the Topology Density tool to paint which areas should be more or less dense. I believe this was, at least in part, due to the nature of the assets I was using, assets where a large part of the surface could be effectively covered by single rectangular strip, while zRemesher aims to retop everything with squares, resulting in higher poly density that if done manually. While I did experiment with using zRemesher to get a rough starting point, then going back in and manually deleting unnecessary edge loops, I found this wasn't actually any faster than just doing the retopology manually from the beginning, and could be more temperamental as it required experimentation and adjustment of settings in order to get a suitable starting point.
 
 After reaching this conclusion, and consulting with an academic, I started conducting research into other topology tools in both Maya and Blender, and after further experimentation, returned to Maya where I will likely complete the rest of the retop for this project. I chose this over Blender as, while from my brief experience with it I personally prefer Blender, Maya is currently the industry standard so I wish to focus my learning there, although I will likely dedicate some time to becoming more familiar with Blender before graduation. I like the flexibility that knowing multiple different programs gives me, just because a piece of software <i> can </i> do the specific task I need, it doesn't mean it is the <i>best</i> tool for the job, and I can't know what the best tool is if I don't know which ones are available.
+
+<p style="margin-bottom:3cm;"></p>
 
 <h2>05/12/22 - 09/12/22</h2>
 
