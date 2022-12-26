@@ -7,11 +7,30 @@ nav-menu: true
 show_tile: true
 tile_order: 3
 ---
+<h2>05/12/22 - 09/12/22</h2>
+
+Started playing with Substance Designer, creating a tileable stylised brick material. This was a lot of fun, and honestly way easier to get into than I had feared, I think my programming background really shines through here, letting me get to grips with  the node based process quickly. After importing this into engine, the standard tiling method, honestly, annoyed in how limited it was, I didn't want to have to use a slightly differently scaled material for each object of a different size! That seemed like a lot of busy work, so I spent a little time putting together a script so that the textures now scale in world space rather than object space, meaning any object I apply the material too will have bricks of the same size, with no extra work on my part. This is limited for now, working only in the world planes, as the effort to make it work in a general case isn't worth it when I don't currently have a use case for that functionality.
+As always with my work, this was a very iterative process, with multiple rounds of importing the asset into engine to better gauge how it looked in the situation it would be used.
+
+<div class="box alt">
+	<div class="row">
+		<div class="4u"><span class="image fit"><img src="{{ site.baseurl }}\assets\images\Cathedral\Tileable_Bricks_1.png" alt="" /></span></div>
+		<div class="4u"><span class="image fit"><img src="{{ site.baseurl }}\assets\images\Cathedral\Tileable_Bricks_2.png" alt="" /></span></div>
+		<div class="4u$"><span class="image fit"><img src="{{ site.baseurl }}\assets\images\Cathedral\Tileable_Bricks_3.png" alt="" /></span></div>
+	</div>
+	<div class="row">
+		<div class="6u"><span class="image fit"><img src="{{ site.baseurl }}\assets\images\Cathedral\Tileable_Bricks_4.png" alt="" /></span></div>
+		<div class="6u$"><span class="image fit"><img src="{{ site.baseurl }}\assets\images\Cathedral\Tileable_Bricks_5.png" alt="" /></span></div>
+	</div>
+</div>
+
+<p style="margin-bottom:3cm;"></p>
+
 <h2>21/11/22 - 02/12/22</h2>
 
 This week I began the first detail pass of my Cathedral scene with zBrush, utilising Arraymesh and Live Booleans which, especially when combined, are wonderful. They've allowed fast iteration over the whole model, enabling me to easily adjust the size or shape of one window and then see that change across the entire model. I've also done a second lighting pass with this updated model, which you can see below.
 
-<div class="box">
+<div class="box alt">
 	<div class="row">
 		<div class="6u"><span class="image fit"><img src="{{ site.baseurl }}\assets\images\Cathedral\Lighting_1.png" alt="" /></span></div>
 		<div class="6u$"><span class="image fit"><img src="{{ site.baseurl }}\assets\images\Cathedral\Lighting_2.png" alt="" /></span></div>
@@ -24,7 +43,7 @@ Throughout my process, i've intended the asset to be modular, allowing faster co
 
 I also realised I neglected planning my shot composition and final presentation, so have done some quick sketches to improve and add more visual interest to the scene, seeking to frame the building as focal point. For reference, I've been looking at the third piece <a href="https://www.artstation.com/artwork/8w4Agn">here</a> by artist Zahir Aghakhani for inspiration, trying to block off one side of the screen and angle it in to lead eye to the focal point. I really enjoy with this piece how the diagonals run consistently from top left to bottom right, even the rain is slanting slightly in that direction, pulling the viewer in that direction, and use of broken & picked up lines from the tarpaulin to the car in the left of frame to lead the eye to the focal point.
 
-<div class="box">
+<div class="box alt">
 	<div class="row">
 		<div class="4u"><span class="image fit"><img src="{{ site.baseurl }}\assets\images\Cathedral\Lighting_2.png" alt="" /></span></div>
 		<div class="4u"><span class="image fit"><img src="{{ site.baseurl }}\assets\images\Cathedral\Composition_1.png" alt="" /></span></div>
