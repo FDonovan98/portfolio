@@ -81,8 +81,6 @@ As you can tell by now, while my idea started as an interior I have shifted to a
 
 After these iterations I was happy with how my rough blockout was looking, and have now moved into zBrush to start doing a more detailed blockout, the start of which can be seen below. I decided to switch to zBrush for this as I want to try the zModeller brush, mostly because it has live booleans and I really enjoy the workflow they enable. Having spent a day starting to get my head around it, it's exciting and promising, I'll need longer to see but I may actually prefer it over Maya for hard surface, it feels closer to Blender which is positive. Now that I've got a boolean constructed to generated the stepped arches around the door frame, I'm planning to duplicate it and use it for the window cut outs. This should give a consistent feel to the building by having repeated shapes and motif's, while also saving me time.
 
-<div class="4u$"><span class="image fit"><img src="{{ site.baseurl }}\assets\images\Cathedral\Cathedral_zBrush_1.png" alt="" /></span></div>
-
 <p style="margin-bottom:3cm;"></p>
 
 <h2>September, October, and The Future</h2>
