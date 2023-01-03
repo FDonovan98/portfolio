@@ -9,7 +9,10 @@ tile_order: 3
 ---
 <h2>26/12/22 - 30/12/22</h2>
 <span class="image left"><img src="{{ site.baseurl }}/assets/images/Cathedral/Chain_Box_Cross.png" alt="" /></span>
+
 Logo retopology, experimenting with different methods for doing lowpoly for chains. Trialled using a surrounding box, and using two intersecting planes forming a cross aligned with the chain links. The surrounding box did not look good even when using an opacity mask, while the cross method worked incredibly well. You can see the comparison in the image to the left, with the cross at the front and box behind, and the difference is obvious. The cross method also has half the polycount, which is a nice bonus. I also separated the main logo and each chain section into different objects and made use of the <i>Match By Mesh Names</i> option when baking maps to minimise artifacting from the chains on the main logo body, which you can see is present in the screencap on the left.
+
+The rest of the week was spent finishing the logo lowpoly and unwrap, as well as doing the same for another major asset.
 
 <p style="margin-bottom:3cm;"></p>
 
