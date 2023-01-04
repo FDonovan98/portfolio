@@ -18,8 +18,28 @@ focused primarily on building itself, neglected shot composition until later in 
 
 Have designed asset to be able to create a modular kit to allow faster completion time (it's much quicker to unwrap an element once than 16 times) and allow for easy construction in engine. Hope to construct kit in such a way that building new buildings in engine would be quick and efficient.
 
+<h3>Concepting and Design</h3>
+Initially started with gathering a lot of reference, pulling a lot from gothic architecture and the Warhammer 40k universe. <a href="https://www.stjohndivine.org/">The Cathedral St. John The Divine</a> was used as a primary reference, while also pulling on the symbology of the <a href="">Genestealer Cult
+<div class="box alt">
+	<div class ="column">
+		<div class="row">
+			<div class="4u"><span class="image fit"><img src="{{ site.baseurl }}\assets\images\Cathedral\Cathedral_Blockout_Progress_1.png" alt="" /></span></div>
+			<div class="4u"><span class="image fit"><img src="{{ site.baseurl }}\assets\images\Cathedral\Cathedral_Blockout_Progress_2.png" alt="" /></span></div>
+			<div class="4u"><span class="image fit"><img src="{{ site.baseurl }}\assets\images\Cathedral\Cathedral_Blockout_Progress_4.png" alt="" /></span></div>
+			<div class="4u"><span class="image fit"><img src="{{ site.baseurl }}\assets\images\Cathedral\Cathedral_Blockout_Progress_6.png" alt="" /></span></div>
+			<div class="4u"><span class="image fit"><img src="{{ site.baseurl }}\assets\images\Cathedral\Lighting_2.png" alt="" /></span></div>
+			<div class="4u"><span class="image fit"><img src="{{ site.baseurl }}\assets\images\Cathedral\Lighting_1.png" alt="" /></span></div>
+		</div>
+	</div>
+</div>
+
 <h3>Substance Designer</h3>
-I knew that this project would use a tileable stone brick texture for a majority of the texture, so I begun looking into Substance Designer as a solution to creating this. I used <a href="https://www.youtube.com/watch?v=VMfVQs5G-gE">this tutorial (3dEx, 2018)</a> as a starting point, although broke away within the first few minutes to develop it independently. The tutorial mostly gave me an initial intro, answering key questions like how to add nodes and create a tileable tile-like texture, and from there I found the software very intuitive. I think my programming background helped significantly here, is it is essentially just <a href="https://www.tabnine.com/blog/what-is-visual-scripting/">visual scripting (Tabnine Team, 2021)</a> which I'm familiar with. As with all of my work, I took a very iterative approach for the development of this asset, regularly importing the texture into UE5 to see how it looked in engine before making further changes to refine it, several stages of which can be seen below.
+I knew that this project would use a tileable stone brick texture for a majority of the texture, so I begun looking into Substance Designer as a solution to creating this. I used <a href="https://www.youtube.com/watch?v=VMfVQs5G-gE">this tutorial (3dEx, 2018)</a> as a starting point, although broke away within the first few minutes to develop it independently. The tutorial mostly gave me an initial intro, answering key questions like how to add nodes and create a tileable tile-like texture, and from there I found the software very intuitive. I think my programming background helped significantly here, is it is essentially just <a href="https://www.tabnine.com/blog/what-is-visual-scripting/">visual scripting (Tabnine Team, 2021)</a> which I'm familiar with. 
+
+To produce this final version, I have several main sections, as you can see in the photo of the Substance Designer graph below.
+<span class="image fit"><img src="{{ site.baseurl }}\assets\images\Cathedral\Stone_Graph.png" alt="" /></span>
+
+As with all of my work, I took a very iterative approach for the development of this asset, regularly importing the texture into UE5 to see how it looked in engine before making further changes to refine it, several stages of which can be seen below.
 
 <div class="box alt">
 	<div class="row">
@@ -29,8 +49,6 @@ I knew that this project would use a tileable stone brick texture for a majority
 	</div>
 </div>
 
-To produce this final version, I have several main sections, as you can see in the photo of the Substance Designer graph below.
-<span class="image fit"><img src="{{ site.baseurl }}\assets\images\Cathedral\Stone_Graph.png" alt="" /></span>
 
 Early importation into engine allowed me to set up the engine material early and refine it, for example I set it up so it tiled, then discovered I dislike how the default tiling works. My initial, and the simplest, implementation scaled the texture in the objects local space, meaning that each object required a material with a different scaling value in order to have a consistent brick size across models. This seemed like it would require a lot of tinkering and wouldn't scale well, so I put together a quick script to scale the texture in world space rather than local space for each object, meaning that I can have one primary material that controls the brick scale. When an asset has a normal or AO map a new instance of the primary material can be created, and it has optional slots to insert a custom AO and/ or normal map.
 <span class="image fit"><img src="{{ site.baseurl }}\assets\images\Cathedral\Primary_Mat.png" alt="" /></span>
@@ -57,8 +75,7 @@ With this reserach in mind, I adopted quad draw for the rest of the retopology i
 
 <h4>References</h4>
 FlippedNormals (2019). Retopology for Beginners in Blender 2.8 - Retopo the Correct Way. [online] www.youtube.com. Available at: https://www.youtube.com/watch?v=CuQzPDs99yM [Accessed 3 Jan. 2023].
-‌
+
 ‌3dEx (2018). Substance Designer - Stylized Bricks. [online] www.youtube.com. Available at: https://www.youtube.com/watch?v=VMfVQs5G-gE [Accessed 3 Jan. 2023].
-‌
+
 Tabnine Team (2021). What Is Visual Scripting & How It Works. [online] Tabnine Blog. Available at: https://www.tabnine.com/blog/what-is-visual-scripting/ [Accessed 3 Jan. 2023].
-‌
