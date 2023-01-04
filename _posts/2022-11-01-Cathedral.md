@@ -19,7 +19,12 @@ focused primarily on building itself, neglected shot composition until later in 
 Have designed asset to be able to create a modular kit to allow faster completion time (it's much quicker to unwrap an element once than 16 times) and allow for easy construction in engine. Hope to construct kit in such a way that building new buildings in engine would be quick and efficient.
 
 <h3>Concepting and Design</h3>
-Initially started with gathering a lot of reference, pulling a lot from gothic architecture and the Warhammer 40k universe. <a href="https://www.stjohndivine.org/">The Cathedral St. John The Divine</a> was used as a primary reference, while also pulling on the symbology of the <a href="">Genestealer Cult
+Initially started with gathering a lot of reference, planning to develop an environment that could also be submitted for the Grads in Games Rising Star competition. My idea started as a desecrated church, pulling reference from abandoned gothic churches, occult rituals as portrayed by hollywood more than real life, and style reference from environment artists for Runescape. Having gathered a large reference board to pull from, limiting the amount I had to resort to aditional research so speeding up my process, I began working on concept developing, using <a href="https://www.stjohndivine.org/">The Cathedral St. John The Divine (www.stjohndivine.org, n.d.)</a> and the <a href="https://wh40k.lexicanum.com/wiki/Genestealer_Cult">Genestealer Cult (Lexicanum, 2022)</a> from Warhammer 40K as primary reference. 
+
+I started with an initial blockout in Maya, which was exported very early into UE5 to do a lighting pass. This allowed me to get a better idea right from the beginning of the kind of atmosphere I wanted create with this piece. This blockout process was very iterative, refining and exporting it back into engine regularly to get an idea of the rough shapes I wanted and see how they looked when properly lit. I also discovered I could export Maya scenes to FBX via command line, so wrote a tiny script to remove some of the manual steps from this process. You can see progress shots below from left to right, and can see me trialling some squarer designs for the top section before deciding it didn’t fit the theme I was aiming for, scraping it, and replacing it with more layers of angled-roof towers. As you can tell from the iterations below, while my idea started as an interior I have shifted to an external shot as it’s what I felt more drawn too.
+
+After these initial iterations I moved into zBrush to start doing a more detailed blockout. I decided to switch to zBrush for this as I want to try the zModeller brush, mostly because it has live booleans and I really enjoy the workflow they enable. Utilising these booleans allowed me to create a 'stamp' which could be used across the model to create repeating features like windows, speeding up my workflow and allowing fast iteration over the whole model, enabling me to easily adjust the size or shape of one window and then see that change across the entire model.
+
 <div class="box alt">
 	<div class ="column">
 		<div class="row">
@@ -32,6 +37,7 @@ Initially started with gathering a lot of reference, pulling a lot from gothic a
 		</div>
 	</div>
 </div>
+
 
 <h3>Substance Designer</h3>
 I knew that this project would use a tileable stone brick texture for a majority of the texture, so I begun looking into Substance Designer as a solution to creating this. I used <a href="https://www.youtube.com/watch?v=VMfVQs5G-gE">this tutorial (3dEx, 2018)</a> as a starting point, although broke away within the first few minutes to develop it independently. The tutorial mostly gave me an initial intro, answering key questions like how to add nodes and create a tileable tile-like texture, and from there I found the software very intuitive. I think my programming background helped significantly here, is it is essentially just <a href="https://www.tabnine.com/blog/what-is-visual-scripting/">visual scripting (Tabnine Team, 2021)</a> which I'm familiar with. 
@@ -79,3 +85,7 @@ FlippedNormals (2019). Retopology for Beginners in Blender 2.8 - Retopo the Corr
 ‌3dEx (2018). Substance Designer - Stylized Bricks. [online] www.youtube.com. Available at: https://www.youtube.com/watch?v=VMfVQs5G-gE [Accessed 3 Jan. 2023].
 
 Tabnine Team (2021). What Is Visual Scripting & How It Works. [online] Tabnine Blog. Available at: https://www.tabnine.com/blog/what-is-visual-scripting/ [Accessed 3 Jan. 2023].
+
+Lexicanum (2022). Genestealer Cult - Warhammer 40k - Lexicanum. [online] wh40k.lexicanum.com. Available at: https://wh40k.lexicanum.com/wiki/Genestealer_Cult [Accessed 4 Jan. 2023].
+
+www.stjohndivine.org. (n.d.). Cathedral of Saint John the Divine. [online] Available at: https://www.stjohndivine.org/.
