@@ -71,6 +71,21 @@ With this reserach in mind, I adopted quad draw for the rest of the retopology i
     <i> From left to right, a quick retop done with zRemesher, retop done with zSphere, and retop done in Maya with Quad Draw. Notice the density and number of redundant edge loops in the zRemesher version, and the unaligned edge loops in the zSphere version, a problem that occurs due to the nature of the tool.</i>
 </div>
 
+<h3>Kit Assembly</h3>
+Elements weren't built to a grid due to being developed fluidly in zBrush, so the assets needed tweaking in order to fit cleanly to a grid. This was done by scaling the assets to fit the grid in Maya, referencing back to the original concept blockout to ensure relative size was roughly maintained. Edging panels were also added around the arched top of the windows in order to square off the asset and pivots were standardised to being in the bottom left corner to give consistency across the pack.
+
+<h3>Detailing</h3>
+With the kit assembled and in engine, I was able to assess the entire pack with textures for the first time. My conclusion was that it was definitely missing something. The single material meant the asset all blended into one mass, without any clear highlights or separation. Comparing my kit to my references I also found that I was missing a lot of the detailing and transitional pieces, and that the pieces ranged from plain brick lining such as I've including on the tower main window, to highly detailed baroque style border pieces. 
+As a first step in fixing this, I went through my kit assets in Maya and moved specific UV islands to a separate material. This allows those elements to have a different material in engine, which I then utilised by creating a lighter brick variant to pick out and highlight these details, which you can see below.
+
+<div class = "box alt">
+    <div class="row">
+		<div class="4u"><span class="image fit"><img src="{{ site.baseurl }}\assets\images\Cathedral\Kit_1.png" alt="" /></span></div>
+		<div class="4u$"><span class="image fit"><img src="{{ site.baseurl }}\assets\images\Cathedral\Kit_2.png" alt="" /></span></div>
+	</div>
+    <i> From left to right; the initial kit displayed in engine with a recoloured brick material, and the reimported kit with trim details moved to a separate material, in this instance a much lighter version of the brick material to highlight details.</i>
+</div>
+
 <h4>References</h4>
 FlippedNormals (2019). Retopology for Beginners in Blender 2.8 - Retopo the Correct Way. [online] www.youtube.com. Available at: https://www.youtube.com/watch?v=CuQzPDs99yM [Accessed 3 Jan. 2023].
 
