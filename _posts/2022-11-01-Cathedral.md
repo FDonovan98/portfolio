@@ -80,8 +80,8 @@ As a first step in fixing this, I went through my kit assets in Maya and moved s
 
 <div class = "box alt">
     <div class="row">
-		<div class="4u"><span class="image fit"><img src="{{ site.baseurl }}\assets\images\Cathedral\Kit_1.png" alt="" /></span></div>
-		<div class="4u$"><span class="image fit"><img src="{{ site.baseurl }}\assets\images\Cathedral\Kit_2.png" alt="" /></span></div>
+		<div class="6u"><span class="image fit"><img src="{{ site.baseurl }}\assets\images\Cathedral\Kit_1.png" alt="" /></span></div>
+		<div class="6u$"><span class="image fit"><img src="{{ site.baseurl }}\assets\images\Cathedral\Kit_2.png" alt="" /></span></div>
 	</div>
     <i> From left to right; the initial kit displayed in engine with a recoloured brick material, and the reimported kit with trim details moved to a separate material, in this instance a much lighter version of the brick material to highlight details.</i>
 </div>
