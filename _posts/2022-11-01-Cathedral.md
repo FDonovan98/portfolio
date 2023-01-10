@@ -36,6 +36,13 @@ I knew that this project would use a tileable stone brick texture for a majority
 
 To produce this final version, I have several main sections, as you can see in the photo of the Substance Designer graph below.
 <span class="image fit"><img src="{{ site.baseurl }}\assets\images\Cathedral\Stone_Graph.png" alt="" /></span>
+<div class = "box alt">
+    <div class="row">
+		<div class="6u"><span class="image fit"><img src="{{ site.baseurl }}\assets\images\Cathedral\Multi_Speckled_Islands_Graph.png" alt="" /></span></div>
+		<div class="6u$"><span class="image fit"><img src="{{ site.baseurl }}\assets\images\Cathedral\Island_Rand_Colour_Graph.png" alt="" /></span></div>
+	</div>
+    <!-- <i> From left to right; the initial kit displayed in engine with a recoloured brick material, and the reimported kit with trim details moved to a separate material, in this instance a much lighter version of the brick material to highlight details.</i> -->
+</div>
 
 As with all of my work, I took a very iterative approach for the development of this asset, regularly importing the texture into UE5 to see how it looked in engine before making further changes to refine it, several stages of which can be seen below.
 
@@ -49,6 +56,7 @@ As with all of my work, I took a very iterative approach for the development of 
 
 
 Early importation into engine allowed me to set up the engine material early and refine it, for example I set it up so it tiled, then discovered I dislike how the default tiling works. My initial, and the simplest, implementation scaled the texture in the objects local space, meaning that each object required a material with a different scaling value in order to have a consistent brick size across models. This seemed like it would require a lot of tinkering and wouldn't scale well, so I put together a quick script to scale the texture in world space rather than local space for each object, meaning that I can have one primary material that controls the brick scale. When an asset has a normal or AO map a new instance of the primary material can be created, and it has optional slots to insert a custom AO and/ or normal map.
+
 <span class="image fit"><img src="{{ site.baseurl }}\assets\images\Cathedral\Primary_Mat.png" alt="" /></span>
 
 <h3>Retopology</h3>
