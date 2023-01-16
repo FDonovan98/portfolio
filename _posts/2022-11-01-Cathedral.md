@@ -2,7 +2,7 @@
 layout: post
 title: Cathedral Kit
 # description: Feugiat amet 
-image: assets/images/Cathedral/Kit_2.png
+image: assets/images/Cathedral/Kit_Wireframe.png
 # video: https://www.youtube.com/embed/lYTyDO7lnCA
 released: December 2022
 # storefront: Steam
