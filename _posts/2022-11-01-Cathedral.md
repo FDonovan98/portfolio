@@ -1,14 +1,14 @@
 ---
 layout: post
-title: Cathedral
+title: Cathedral Kit
 # description: Feugiat amet 
-# image: assets/images/castan.png
+image: assets/images/Cathedral/Kit_2.png
 # video: https://www.youtube.com/embed/lYTyDO7lnCA
 released: December 2022
 # storefront: Steam
 # storeurl: https://store.steampowered.com/app/1836170/Castan/
 # roles: Producer
-display: false
+display: true
 ---
 <h3>Concepting and Design</h3>
 I started this project gathering a lot of reference, planning to develop an environment that could be submitted for the Grads in Games Rising Star competition. My idea started as a desecrated church, pulling reference from abandoned gothic churches, occult rituals as portrayed by hollywood more than real life, and style reference from environment artists for Runescape. Having gathered a large reference board to pull from I began working on concept developing, using <a href="https://www.stjohndivine.org/">The Cathedral St. John The Divine (www.stjohndivine.org, n.d.)</a> as primary reference, and using the <a href="https://wh40k.lexicanum.com/wiki/Genestealer_Cult">Genestealer Cult (Lexicanum, 2022)</a> iconography for the central detail. 
