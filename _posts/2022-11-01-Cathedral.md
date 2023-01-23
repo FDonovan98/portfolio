@@ -101,8 +101,6 @@ As a first step in fixing this, I went through my kit in Maya and moved specific
 <h3>Conclusion</h3>
 While there is certainly more I could do with this project, I've gotten a lot out of it already, more than the project was initially intended to provide! While I could push it further, sculpting more fine detail for the assets, I'm happy with the state of the project as it stands and have decided to leave it here for now. It's been an invaluable learning experience for zBrush and Substance designer, and I am incredibly proud of the tileable stone texture I created. It's also given me significantly more practice UVing and forced me to think about how the asset will work with a tiled texture when unwrapping, a perspective that I expect to be helpful not just with tileables but with trim sheets moving forwards.
 
-Word count: 1,648 excluding in-text citations and this sentence
-
 <h4>References</h4>
 FlippedNormals (2019). Retopology for Beginners in Blender 2.8 - Retopo the Correct Way. [online] www.youtube.com. Available at: https://www.youtube.com/watch?v=CuQzPDs99yM [Accessed 3 Jan. 2023].
 
