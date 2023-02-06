@@ -2,7 +2,7 @@
 layout: post
 title: Cathedral Kit
 # description: Feugiat amet 
-image: assets/images/Cathedral/Kit_Wireframe.png
+image: assets/images/Cathedral/Cathedral_Constructed.png
 # video: https://www.youtube.com/embed/lYTyDO7lnCA
 released: December 2022
 # storefront: Steam
@@ -61,6 +61,10 @@ As with all of my work, I took a very iterative approach for the development of 
 
 Early importation into engine allowed me to set up the engine material early and refine it, for example I set it up so it tiled, then realised it tiled in the objects local space, requiring custom scaling per asset. I then implemented world scaling manually, before discovering there was an existing node for this. This allows the use of a single primary material controlling the brick scale for all assets, which is then instanced if an asset has unique normal or AO maps.
 
+Below you can see several brick variations, which were all created in engine by modifying variables available in the main material.
+
+<span class="image fit"><img src="{{ site.baseurl }}\assets\images\Cathedral\Material_Variations.png" alt="" /></span>
+
 <h3>Retopology</h3>
 This project was also an opportunity to investigate different retopology workflows and processes, experimenting with retopology in zBrush using zRemesher, DynaMesh, and zSphere, in Maya using QuadDraw, and doing some light research into retopology in Blender. 
 
@@ -84,7 +88,9 @@ With this research in mind, I adopted quad draw for the rest of the retopology i
 </div>
 
 <h3>Kit Assembly</h3>
-The assets weren't built to a grid due to being developed fluidly in zBrush, so their scale required tweaking to enable clean snapping in engine. Edging panels were also added around the arched tops of the windows in order to square off the asset and pivots were standardised to the bottom left corner, providing consistency across the pack.
+The assets weren't built to a grid due to being developed fluidly in zBrush, so their scale required tweaking to enable clean snapping in engine. Edging panels were also added around the arched tops of the windows in order to square off the asset and pivots were standardised to the bottom left corner, providing consistency across the pack. Below you can see the created kit in engine, with wireframe view enabled.
+
+<span class="image fit"><img src="{{ site.baseurl }}\assets\images\Cathedral\Kit_Wireframe.png" alt="" /></span>
 
 <h3>Detailing</h3>
 With the kit assembled and in engine, I was able to assess the entire pack with textures for the first time. My conclusion was that it was definitely missing something. The single material meant the asset all blended into one mass, without any clear highlights or separation. Comparing my kit to references I found I was missing a lot of the detailing and transitional pieces, ranging from plain brick linings to baroque style detailing. 
