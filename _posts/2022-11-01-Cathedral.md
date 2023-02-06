@@ -2,7 +2,7 @@
 layout: post
 title: Modular Cathedral Kit
 # description: Feugiat amet 
-image: assets/images/Cathedral/Cathedral_Constructed.png
+image: assets/images/Cathedral/Cathedral_Constructed_With_Branding.png
 # video: https://www.youtube.com/embed/lYTyDO7lnCA
 released: December 2022
 # storefront: Steam
@@ -10,6 +10,8 @@ released: December 2022
 # roles: Producer
 display: true
 ---
+This was a project I created as part of my masters course and as a submission for the Grads In Games Search For A Star Environment Art competition. I spent a good amount of time investigating different retopology workflows, experimenting with the different tools available so I can make informed decisions moving forward. The final result of this project was a stained glass material and a flexible brick material made in Substance Designer that allowed easy creation of variants in engine, a modular kit to allow quick building of cathedral-like assets, and an example scene showing this kit and the materials in use in UE5.
+
 <h3>Concepting and Design</h3>
 I started this project gathering a lot of reference, planning to develop an environment that could be submitted for the Grads in Games Rising Star competition. My idea started as a desecrated church, pulling reference from abandoned gothic churches, occult rituals as portrayed by hollywood more than real life, and style reference from environment artists for Runescape. Having gathered a large reference board to pull from I began working on concept developing, using <a href="https://www.stjohndivine.org/">The Cathedral St. John The Divine (www.stjohndivine.org, n.d.)</a> as primary reference, and using the <a href="https://wh40k.lexicanum.com/wiki/Genestealer_Cult">Genestealer Cult (Lexicanum, 2022)</a> iconography for the central detail. 
 
