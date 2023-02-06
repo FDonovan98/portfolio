@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Cathedral Kit
+title: Modular Cathedral Kit
 # description: Feugiat amet 
 image: assets/images/Cathedral/Cathedral_Constructed.png
 # video: https://www.youtube.com/embed/lYTyDO7lnCA
