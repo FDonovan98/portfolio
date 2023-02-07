@@ -37,9 +37,9 @@
 
               {% if post.storefront != null%}
                 {%if post.storeurl != null %}
-                  <b>Store:</b> <a href="{{post.storeurl}}">{{post.storefront}}</a>
+                  <b>Available On:</b> <a href="{{post.storeurl}}">{{post.storefront}}</a>
                 {% else %}
-                  <b>Store:</b> {{post.storefront}}
+                  <b>Available On:</b> {{post.storefront}}
                 {% endif %}
               {%endif%}
               

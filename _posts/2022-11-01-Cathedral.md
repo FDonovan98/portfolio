@@ -4,9 +4,9 @@ title: Modular Cathedral Kit
 # description: Feugiat amet 
 image: assets/images/Cathedral/Cathedral_Constructed_With_Branding.png
 # video: https://www.youtube.com/embed/lYTyDO7lnCA
-released: December 2022
-# storefront: Steam
-# storeurl: https://store.steampowered.com/app/1836170/Castan/
+released: February 2023
+storefront: Itch
+storeurl: https://frostdonovan.itch.io/a-church-in-the-wastes
 # roles: Producer
 display: true
 ---
