@@ -7,6 +7,9 @@ nav-menu: true
 show_tile: true
 tile_order: 3
 ---
+<h2>January - Mid-February: Judgement Time</h2>
+This was an intense time, I spent it wrapping up the cathedral, getting it finished and prepped for both my uni deadline and the Grads In Games Environment Art competition. While I didn't crunch, the time I normally spend keeping this up to date was instead spent on the doing the write up for the project. You can checkout <a href="{{ site.baseurl }}/2022/11/01/Cathedral.html">the write up here</a> or check it out <a href="https://www.artstation.com/artwork/QndJ6d">on my Artstation here.</a>
+
 <h2>26/12/22 - 30/12/22</h2>
 <span class="image left"><img src="{{ site.baseurl }}/assets/images/Cathedral/Chain_Box_Cross.png" alt="" /></span>
 
