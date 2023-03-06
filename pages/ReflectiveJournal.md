@@ -7,6 +7,18 @@ nav-menu: true
 show_tile: true
 tile_order: 3
 ---
+<h2>Late February</h2>
+Started on my next project, wanting to focus on composition and lighting primarily. As I said in my previous project composition I neglected until the very end and is one of the areas I'm least familiar, so this project can act as dedicated practice. As always, I started with a lot of research, I'd just finished reading The Religion by Tim Willocks, and wanted to do something inspired by this, and knew I wanted to do an environmental piece. The book is set in the 16th century during the siege of Malta, so after a lot of research into the period I settled on doing a historical Moroccan Riad, a style of traditional house with narrow rooms surrounding a central courtyard. I also wanted to keep the project small in both scope and physical size so I could focus on lighting and composition without being overwhelmed by other aspects, so this concept worked perfectly.
+
+After settling on a concept and gathering more focused reference, I began blocking out a scene, iterations of which you can see below. While I started blocking out by feel and reference alone, I also used overlays for both the rule of thirds and golden ratio to help guide asset placement, while regularly switch my camera angle and making sure the layout still made sense as an actual place.
+<div class="box alt">
+	<div class="row">
+		<div class="4u"><span class="image fit"><img src="{{ site.baseurl }}\assets\images\Cathedral\Riad_Progress_1.png" alt="" /></span></div>
+		<div class="4u"><span class="image fit"><img src="{{ site.baseurl }}\assets\images\Cathedral\Riad_Progress_2.png" alt="" /></span></div>
+		<div class="4u$"><span class="image fit"><img src="{{ site.baseurl }}\assets\images\Cathedral\Riad_Progress_3.png" alt="" /></span></div>
+	</div>
+</div>
+
 <h2>January - Mid-February: Judgement Time</h2>
 This was an intense time, I spent it wrapping up the cathedral, getting it finished and prepped for both my uni deadline and the Grads In Games Environment Art competition. While I didn't crunch, the time I normally spend keeping this up to date was instead spent on the doing the write up for the project. You can checkout <a href="{{ site.baseurl }}/2022/11/01/Cathedral.html">the write up here</a> or check it out <a href="https://www.artstation.com/artwork/QndJ6d">on my Artstation here.</a>
 
