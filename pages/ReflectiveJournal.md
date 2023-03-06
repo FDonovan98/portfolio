@@ -13,17 +13,17 @@ Started on my next project, wanting to focus on composition and lighting primari
 After settling on a concept and gathering more focused reference, I began blocking out a scene, iterations of which you can see below. While I started blocking out by feel and reference alone, I also used overlays for both the rule of thirds and golden ratio to help guide asset placement, while regularly switch my camera angle and making sure the layout still made sense as an actual place.
 <div class="box alt">
 	<div class="row">
-		<div class="4u"><span class="image fit"><img src="{{ site.baseurl }}\assets\images\Cathedral\Riad_Progress_1.png" alt="" /></span></div>
-		<div class="4u"><span class="image fit"><img src="{{ site.baseurl }}\assets\images\Cathedral\Riad_Progress_2.png" alt="" /></span></div>
-		<div class="4u$"><span class="image fit"><img src="{{ site.baseurl }}\assets\images\Cathedral\Riad_Progress_3.png" alt="" /></span></div>
+		<div class="4u"><span class="image fit"><img src="{{ site.baseurl }}\assets\images\Riad\Riad_Progress_1.png" alt="" /></span></div>
+		<div class="4u"><span class="image fit"><img src="{{ site.baseurl }}\assets\images\Riad\Riad_Progress_2.png" alt="" /></span></div>
+		<div class="4u$"><span class="image fit"><img src="{{ site.baseurl }}\assets\images\Riad\Riad_Progress_3.png" alt="" /></span></div>
 	</div>
 </div>
 
 Two lighting versions, one fairly plainly lit during the day and another staged at night. I preferred working on the night scene as it allows me to create an atmosphere I personally prefer, however I feel I am still not happy with either scene. I think they are both functional, but uninteresting, and I'm unsure whether this is due to the lighting setup being dull or the scenes just being blockout and so lacking a lot of visual interest. This is the stage of a project I find I struggle with the most, where it is starting to get there but my path forward seems uncertain, and I'm unsure if the project is going to turn into a final project that I like. I've already been seeking feedback from peers as I work, so I think the only way to know is to keep pushing on and see how it turns out.
 <div class="box alt">
 	<div class="row">
-		<div class="6u"><span class="image fit"><img src="{{ site.baseurl }}\assets\images\Cathedral\Riad_Progress_3.png" alt="" /></span></div>
-		<div class="6u$"><span class="image fit"><img src="{{ site.baseurl }}\assets\images\Cathedral\Riad_Progress_Night.png" alt="" /></span></div>
+		<div class="6u"><span class="image fit"><img src="{{ site.baseurl }}\assets\images\Riad\Riad_Progress_3.png" alt="" /></span></div>
+		<div class="6u$"><span class="image fit"><img src="{{ site.baseurl }}\assets\images\Riad\Riad_Progress_Night.png" alt="" /></span></div>
 	</div>
 </div>
 
