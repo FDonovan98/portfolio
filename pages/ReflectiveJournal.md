@@ -7,6 +7,17 @@ nav-menu: true
 show_tile: true
 tile_order: 3
 ---
+<h2>March</h2>
+As you can likely tell, this journal is getting progressively harder to keep up with. Early march was spent wrapping up my lighting project, which you can read my write up for, should you be so inclined, <a href="{{ site.baseurl }}\assets\pdfs\GART704_Report.pdf">here.</a> I'll include a few final images of the progression and two variations below. While I like the final results, I feel I went too dark for the night scene. This is a problem I ran into with my last project, so I was trying to be mindful of creating a night scene without it being unreasonably dark, and while it's improved I still want to push that brightness further in my next project to improve readability.
+
+<div class="box alt">
+	<div class="row">
+		<div class="4u"><span class="image fit"><img src="{{ site.baseurl }}\assets\images\Riad\Riad_Progress_1.png" alt="" /></span></div>
+		<div class="4u"><span class="image fit"><img src="{{ site.baseurl }}\assets\images\Riad\Blockout_Day.png" alt="" /></span></div>
+		<div class="4u$"><span class="image fit"><img src="{{ site.baseurl }}\assets\images\Riad\Blockout_Night_2.png" alt="" /></span></div>
+	</div>
+</div>
+
 <h2>Late February</h2>
 Started on my next project, wanting to focus on composition and lighting primarily. As I said in my previous project composition I neglected until the very end and is one of the areas I'm least familiar, so this project can act as dedicated practice. As always, I started with a lot of research, I'd just finished reading The Religion by Tim Willocks, and wanted to do something inspired by this, and knew I wanted to do an environmental piece. The book is set in the 16th century during the siege of Malta, so after a lot of research into the period I settled on doing a historical Moroccan Riad, a style of traditional house with narrow rooms surrounding a central courtyard. I also wanted to keep the project small in both scope and physical size so I could focus on lighting and composition without being overwhelmed by other aspects, so this concept worked perfectly.
 
