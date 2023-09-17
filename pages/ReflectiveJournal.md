@@ -3,8 +3,8 @@ layout: post
 title: Reflective Journal
 description:
 image:
-nav-menu: true
-show_tile: true
+nav-menu: false
+show_tile: false
 tile_order: 3
 ---
 <h2>March</h2>

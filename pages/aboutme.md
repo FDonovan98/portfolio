@@ -7,7 +7,9 @@ nav-menu: true
 show_tile: true
 tile_order: 0
 ---
-Hi! My name's Frost, I'm currently working through a MA Game Art degree and am <i>really</i> excited about entering the industry soon as a games artist. Currently, I'm most interested in Environment Art roles, but I'm pretty flexible and could be interested in both Technical Art and Material Art roles, if the right one comes along. 
+Hi! My name's Frost, I'm a generalist 3D artist that specialises in technical, lighting, and environmental work, although I'm very flexible and am always looking for opportunities to expand my skills and experience. I have an undergrad degree in games programming and a masters in game art. Through these I discovered I found teaching incredibly satisfying and rewarding, and spent a notable portion of my time rewording and re-explaining lectures, providing constructive feedback, and volunteering to help teach in undergrad lectures through my masters. 
+
+I'm currently working part time as an environment and lighting artist for Octoghost Studio, but would be interested in further part time work, preferably where I can have the opportunity to teach more in an Assistant Lecturer or Mentor style role.
 
 <h3>My Path To Art</h3>
 My background and path up till now has been pretty... non-traditional. During my undergrad I was on a BSc Computing For Games course, basically programming for video games, so my bachelors is in programming, but our course was very focused on actually developing games as multidisciplinary teams, so for almost all of it I was actually acting as a producer, and now I'm an artist! I should probably explain that a little more. <br>
