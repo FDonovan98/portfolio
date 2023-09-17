@@ -1,8 +1,8 @@
 # site settings
 title: Frost Donovan
-subtitle: Game Developer
+subtitle: 3D Artist
 email: FrostBDonovan@gmail.com
-description: Hi! I'm Frost (she/ they), an artist with a background in production and programming, and Director at Glass Nomad Games. I'm currently finishing my Game Art Masters, and am interested in junior environment/ technical artist roles. You can check out my <a href="https://www.artstation.com/frostdonovan">Artstation here,</a> <a href="\portfolio\pages\portfoliolist"> my previous projects here,</a> or view a little more <a href="\portfolio\pages\aboutme">about me here.</a>
+description: Hi! I'm Frost (she/ they), an artist with a background in production and programming. I'm currently working part time as an environment and lighting artist at Octoghost Studio, and would love to find another part time role that gives me the opportunity to teach, something I found I really enjoyed through my time at uni. You can check out my <a href="https://www.artstation.com/frostdonovan">art on Artstation here,</a> <a href="\portfolio\pages\portfoliolist"> my other projects here,</a> or view a little more <a href="\portfolio\pages\aboutme">about me here.</a>
 baseurl: "/portfolio" # the subpath of your site, e.g. /blog
 url: # the base hostname & protocol for your site
 author:
